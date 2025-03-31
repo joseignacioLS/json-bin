@@ -1382,7 +1382,10 @@
     "date": "2025-03-26",
     "selected": false,
     "tags": ["5-7-5"],
-    "show": true
+    "show": true,
+    "description": [
+      "Un pequeño guiño a la primavera, trayendo de nuevo la vida tras el invierno."
+    ]
   },
   {
     "id": 136,
