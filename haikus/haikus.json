@@ -1491,5 +1491,21 @@
       "sueño roto",
       "Era casí un haiku, así que en su honor he decidido terminar de adaptarlo, espero que con el perdón de su autor o autora original."
     ]
+  },
+  {
+    "id": 143,
+    "text": [
+      "Ob-ser-vo_el mun-do,",
+      "mis ra-í-ces pro-fun-das",
+      "no me re-tie-nen"
+    ],
+    "date": "2025-04-02",
+    "selected": false,
+    "tags": ["5-7-5"],
+    "show": true,
+    "description": [
+      "Últimamente trato de abrir mi mente y buscar inspiración. A la vez soy una persona miedosa y que le cuesta salir de su burbuja.",
+      "Quiero vivir sin miedo."
+    ]
   }
 ]
