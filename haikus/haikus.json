@@ -4,7 +4,7 @@
     "date": "2017-10-06",
     "id": 0,
     "selected": true,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": true
   },
   {
@@ -16,7 +16,7 @@
     "date": "2017-10-06",
     "id": 1,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -28,7 +28,7 @@
     "date": "2017-10-06",
     "id": 2,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -36,7 +36,7 @@
     "date": "2017-10-06",
     "id": 3,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": true
   },
   {
@@ -44,7 +44,7 @@
     "date": "2017-10-06",
     "id": 4,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -56,7 +56,7 @@
     "date": "2017-10-06",
     "id": 5,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -68,7 +68,7 @@
     "date": "2017-10-06",
     "id": 6,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -76,7 +76,7 @@
     "date": "2017-10-06",
     "id": 7,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -84,7 +84,7 @@
     "date": "2017-10-06",
     "id": 8,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": false
   },
   {
@@ -92,7 +92,7 @@
     "date": "2017-10-06",
     "id": 9,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": false
   },
   {
@@ -100,7 +100,7 @@
     "date": "2017-10-06",
     "id": 10,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": false
   },
   {
@@ -112,7 +112,7 @@
     "date": "2017-10-06",
     "id": 11,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -120,7 +120,7 @@
     "date": "2017-10-06",
     "id": 12,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -132,7 +132,7 @@
     "date": "2017-10-06",
     "id": 13,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -144,7 +144,7 @@
     "date": "2017-10-06",
     "id": 14,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -152,7 +152,7 @@
     "date": "2019-01-13",
     "id": 15,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": true
   },
   {
@@ -160,7 +160,7 @@
     "date": "2019-01-13",
     "id": 16,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": false
   },
   {
@@ -168,7 +168,7 @@
     "date": "2019-01-13",
     "id": 17,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "Reflexión", "3-5-3"],
     "show": true
   },
   {
@@ -176,7 +176,7 @@
     "date": "2019-01-13",
     "id": 18,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -184,7 +184,7 @@
     "date": "2019-01-13",
     "id": 19,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": true
   },
   {
@@ -200,7 +200,7 @@
     "date": "2019-01-13",
     "id": 21,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": false
   },
   {
@@ -208,7 +208,7 @@
     "date": "2019-01-13",
     "id": 22,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": false
   },
   {
@@ -220,7 +220,7 @@
     "date": "2019-01-13",
     "id": 23,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -228,7 +228,7 @@
     "date": "2019-01-13",
     "id": 24,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": false
   },
   {
@@ -236,7 +236,7 @@
     "date": "2019-01-13",
     "id": 25,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": false
   },
   {
@@ -244,7 +244,7 @@
     "date": "2019-01-13",
     "id": 26,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "Reflexión", "3-5-3"],
     "show": false
   },
   {
@@ -256,7 +256,7 @@
     "date": "2019-01-13",
     "id": 27,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -280,7 +280,7 @@
     "date": "2019-01-13",
     "id": 30,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": true
   },
   {
@@ -288,7 +288,7 @@
     "date": "2019-01-13",
     "id": 31,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": false
   },
   {
@@ -300,7 +300,7 @@
     "date": "2021-10-26",
     "id": 32,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -312,7 +312,7 @@
     "date": "2021-10-26",
     "id": 33,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -320,7 +320,7 @@
     "date": "2022-06-21",
     "id": 34,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": true
   },
   {
@@ -328,15 +328,16 @@
     "date": "2023-05-19",
     "id": 35,
     "selected": false,
-    "tags": ["3-5-3"],
-    "show": true
+    "tags": ["Chuck", "3-5-3"],
+    "show": true,
+    "description": ["Hace pocos meses que se fue Chuck. Que difícil."]
   },
   {
     "text": ["Los rí-os", "no se di-vi-den,", "por siem-pre"],
     "date": "2024-10-17",
     "id": 36,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -348,7 +349,7 @@
     "date": "2024-10-17",
     "id": 37,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "5-7-5"],
     "show": true
   },
   {
@@ -356,7 +357,7 @@
     "date": "2024-10-17",
     "id": 38,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": true
   },
   {
@@ -364,7 +365,7 @@
     "date": "2024-10-17",
     "id": 39,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -372,7 +373,7 @@
     "date": "2024-10-17",
     "id": 40,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -380,7 +381,7 @@
     "date": "2024-10-17",
     "id": 41,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -388,7 +389,7 @@
     "date": "2024-10-17",
     "id": 42,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -396,7 +397,7 @@
     "date": "2024-10-17",
     "id": 43,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -404,7 +405,7 @@
     "date": "2024-11-21",
     "id": 44,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -416,7 +417,7 @@
     "date": "2024-12-11",
     "id": 45,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -424,7 +425,7 @@
     "date": "2024-12-30",
     "id": 46,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -432,7 +433,7 @@
     "date": "2024-12-30",
     "id": 47,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -464,7 +465,7 @@
     "date": "2024-12-31",
     "id": 50,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "Reflexión", "5-7-5"],
     "show": true
   },
   {
@@ -496,7 +497,7 @@
     "date": "2024-12-31",
     "id": 53,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -524,7 +525,7 @@
     "date": "2025-01-01",
     "id": 56,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -532,7 +533,7 @@
     "date": "2025-01-01",
     "id": 57,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Reflexión", "Personal", "3-5-3"],
     "show": true
   },
   {
@@ -548,7 +549,7 @@
     "date": "2025-01-01",
     "id": 59,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -592,7 +593,7 @@
     "date": "2025-01-07",
     "id": 64,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -648,7 +649,7 @@
     "date": "2025-01-07",
     "id": 70,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -656,7 +657,7 @@
     "date": "2025-01-07",
     "id": 71,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Personal", "3-5-3"],
     "show": true
   },
   {
@@ -688,7 +689,7 @@
     "date": "2025-01-13",
     "id": 75,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Reflexión", "3-5-3"],
     "show": true
   },
   {
@@ -712,7 +713,7 @@
     "date": "2025-01-17",
     "id": 78,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Reflexión", "3-5-3"],
     "show": true
   },
   {
@@ -724,7 +725,7 @@
     "date": "2025-01-19",
     "id": 79,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "5-7-5"],
     "show": false
   },
   {
@@ -732,7 +733,7 @@
     "date": "2025-01-23",
     "id": 80,
     "selected": true,
-    "tags": ["3-5-3"],
+    "tags": ["Chuck", "Personal", "3-5-3"],
     "show": true,
     "description": ["Hace dos años que se fue Chuck. Le echo de menos."]
   },
@@ -741,7 +742,7 @@
     "date": "2025-01-28",
     "id": 81,
     "selected": false,
-    "tags": ["3-5-3"],
+    "tags": ["Naturaleza", "3-5-3"],
     "show": true
   },
   {
@@ -753,7 +754,7 @@
     "date": "2025-01-28",
     "id": 82,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -765,7 +766,7 @@
     "date": "2025-01-28",
     "id": 83,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Se alinean los planetas en el cielo nocturno, por lo visto no volverá a pasar hasta dentro de cientos de años."
@@ -780,7 +781,7 @@
     "date": "2025-01-28",
     "id": 84,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -792,7 +793,7 @@
     "date": "2025-01-28",
     "id": 85,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -804,7 +805,7 @@
     "date": "2025-01-28",
     "id": 86,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "5-7-5"],
     "show": true
   },
   {
@@ -816,7 +817,7 @@
     "date": "2025-01-28",
     "id": 87,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -828,7 +829,7 @@
     "date": "2025-01-29",
     "id": 88,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "Reflexión", "5-7-5"],
     "show": true
   },
   {
@@ -836,7 +837,7 @@
     "date": "2025-01-29",
     "id": 89,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -844,7 +845,7 @@
     "date": "2025-01-30",
     "id": 90,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
       "Otro día más trabajando, me preparo un té, y la taza y yo pasamos un rato juntos."
@@ -859,7 +860,7 @@
     "date": "2025-01-30",
     "id": 91,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "Personal", "5-7-5"],
     "show": true
   },
   {
@@ -867,7 +868,7 @@
     "date": "2025-01-30",
     "id": 92,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "Personal", "5-7-5"],
     "show": true,
     "description": [
       "Que gracia. Caminaba hacia mi coche y en el lateral parecía haber un golpe o algún desperfecto. Sin embargo, al acercarme, ví que realmente era una polilla posada en la puerta. De alguna manera camuflándose en un entorno moderno."
@@ -882,7 +883,7 @@
     "date": "2025-01-31",
     "id": 93,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -890,7 +891,7 @@
     "date": "2025-01-31",
     "id": 94,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -902,7 +903,7 @@
     "date": "2025-02-01",
     "id": 95,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -910,7 +911,7 @@
     "date": "2025-02-01",
     "id": 96,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "He de admitir que soy una persona de otoño/invierno. El viento frío en contraposición con el calor del sol en la cara es una sensación increible."
@@ -925,7 +926,7 @@
     "date": "2025-02-01",
     "id": 97,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Hace reflexionar como lo que sería un montón de basura para mí, para otro ser puede ser una fuente de alimento."
@@ -936,7 +937,7 @@
     "date": "2025-02-01",
     "id": 98,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
       "Desde niño siempre me ha hecho gracia que dentro de las patatas fritas venga una 'deluxe'."
@@ -951,7 +952,7 @@
     "date": "2025-02-01",
     "id": 99,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Hoy me he dado el lujo de salir a comer solo. Mientras disfruto de la comida al sol, un gorrión se acerca en busca de comida."
@@ -966,7 +967,7 @@
     "date": "2025-02-01",
     "id": 100,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -974,7 +975,7 @@
     "date": "2025-02-05",
     "id": 101,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -982,7 +983,7 @@
     "date": "2025-02-06",
     "id": 102,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -990,7 +991,7 @@
     "date": "2025-02-06",
     "id": 103,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Voy de camino a mi partida de rol a última hora de la tarde invernal, y al mirar al oeste veo un cielo rosa precioso."
@@ -1005,7 +1006,7 @@
     "date": "2025-02-07",
     "id": 104,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -1017,7 +1018,7 @@
     "date": "2025-02-11",
     "id": 105,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "Personal", "5-7-5"],
     "show": true
   },
   {
@@ -1029,7 +1030,7 @@
     "date": "2025-02-12",
     "id": 106,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -1037,7 +1038,7 @@
     "date": "2025-02-18",
     "id": 107,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Siempre decimos que no hay dos copos de nieve iguales, que son únicos. Y aun así todos tienen el mismo destino."
@@ -1048,7 +1049,7 @@
     "date": "2025-02-18",
     "id": 108,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "Personal", "5-7-5"],
     "show": true
   },
   {
@@ -1056,7 +1057,7 @@
     "date": "2025-02-20",
     "id": 109,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -1064,7 +1065,7 @@
     "date": "2025-02-23",
     "id": 110,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "He visto unas nubes muy densas y bajas que hacían de techo, como cortando la montaña a mitad. Daba la impresión de que, en lugar de en pico, arriba hubiese una gran planicie."
@@ -1079,7 +1080,7 @@
     "date": "2025-02-23",
     "id": 111,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Bien entrado el invierno los almendros empiezan a florecer, llenando los árboles de color rosa, como si de fuegos artificiales se trataran."
@@ -1094,7 +1095,7 @@
     "date": "2025-02-25",
     "id": 112,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "5-7-5"],
     "show": true
   },
   {
@@ -1102,7 +1103,7 @@
     "date": "2025-02-26",
     "id": 113,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -1110,7 +1111,7 @@
     "date": "2025-02-27",
     "id": 114,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "5-7-5"],
     "show": true,
     "description": [
       "A veces no nos damos cuenta de que nos hemos perdido hasta que no nos topamos con algo extraño, que nos hace ver que no sabemos donde estamos."
@@ -1121,7 +1122,7 @@
     "date": "2025-03-01",
     "id": 115,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -1129,7 +1130,7 @@
     "date": "2025-03-01",
     "id": 116,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "5-7-5"],
     "show": true
   },
   {
@@ -1141,7 +1142,7 @@
     "date": "2025-03-02",
     "id": 117,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": false
   },
   {
@@ -1153,7 +1154,7 @@
     "date": "2025-03-02",
     "id": 118,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true
   },
   {
@@ -1161,7 +1162,7 @@
     "date": "2025-03-02",
     "id": 119,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "Personal", "5-7-5"],
     "show": true
   },
   {
@@ -1173,7 +1174,7 @@
     "date": "2025-03-03",
     "id": 120,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "Reflexión", "5-7-5"],
     "show": true
   },
   {
@@ -1181,7 +1182,7 @@
     "date": "2025-03-03",
     "id": 121,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
       "A veces nos centramos tanto en el ambiente o en los demás que no vemos que los que corremos peligro somos nosotros.",
@@ -1197,7 +1198,7 @@
     "date": "2025-03-05",
     "id": 122,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Se acerca el equinocio de primavera y me inspira a escribir, pero no consigo captarlo en forma de haiku."
@@ -1224,7 +1225,7 @@
     "date": "2025-03-10",
     "id": 124,
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "He visto un verdecillo posado en un rama, pero aún quedan unas semanas para la primavera.",
@@ -1240,7 +1241,7 @@
     "date": "2025-03-10",
     "id": 125,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
       "Un buen amigo mío se enfrenta a un momento crucial en su vida. Le deseo lo mejor."
@@ -1255,7 +1256,7 @@
     ],
     "date": "2025-03-15",
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Es curioso ver como los árboles tiene ramas a partir de cierta altura. Han aprendido de sus errores y solo producen yemas donde saben que es fructífero."
@@ -1266,7 +1267,7 @@
     "text": ["Fu-gaz mo-men-to,", "u-na ye-ma flo-re-ce,", "so-le-dad ro-ta"],
     "date": "2025-03-15",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true
   },
   {
@@ -1278,7 +1279,7 @@
     ],
     "date": "2025-03-16",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
       "Últimamente me cuesta llenar el tiempo libre que tengo. Pienso en aquellas veces en las que quería más, y ahora que me sobre llega a agobiarme."
@@ -1289,7 +1290,7 @@
     "text": ["Tras la co-li-na", "un ba-ño pla-te-a-do,", "la lu-na lle-na"],
     "date": "2025-03-16",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Es raro ver salir la luna viviendo en la ciudad. Pero durante mi paseo nocturno, tras una colina y entre dos edificios, veo salir una lunea llena y brillante."
@@ -1304,7 +1305,7 @@
     ],
     "date": "2025-03-21",
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Salgo de Alicante, camino de ver a mis amigos, y mientras conduzco el Maigmó se eleva ante mí.",
@@ -1320,7 +1321,7 @@
     ],
     "date": "2025-03-22",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
       "Una sesión nocturna de charla con un viejo amigo. Hablamos de los tiempos juntos y de las incertidumbres de nuestro presente y futuro.",
@@ -1330,13 +1331,13 @@
   {
     "id": 132,
     "text": [
-      "Bri-nas su-su-rran,",
+      "Briz-nas su-su-rran,",
       "ba-jo un cie-lo sin lu-na",
       "sol-ta-mos car-ga"
     ],
     "date": "2025-03-23",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
       "Aún inspirado por mi conversación con mi amigo sobre la vida, recuerdo el sitio y como compartir la carga nos alivia."
@@ -1351,7 +1352,7 @@
     ],
     "date": "2025-03-23",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Normalmente no paseo por las noches, pero hoy me hacía falta y he decidido salir. En mi camino me cruzo con un gato negro de ojos dorados, y durante un momento nos miramos y noto una conexión."
@@ -1366,7 +1367,7 @@
     ],
     "date": "2025-03-23",
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "5-7-5"],
     "show": true,
     "description": [
       "Tras cinco días de vacaciones toca volver al trabajo. Quizás no sea tanto tener una rutina de trabajo, sino las condiciones y la proyección de este sistema lo que me quita las ganas de volver"
@@ -1381,7 +1382,7 @@
     ],
     "date": "2025-03-26",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "5-7-5"],
     "show": true,
     "description": [
       "Un pequeño guiño a la primavera, trayendo de nuevo la vida tras el invierno."
@@ -1392,7 +1393,7 @@
     "text": ["No-che tem-pra-na,", "sua-ve ca-lor de le-cho,", "ca-e a-re-na"],
     "date": "2025-03-26",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
       "Tras una tarde con amigos me siento en mi cama a escribir en mi libreta.",
@@ -1409,7 +1410,7 @@
     ],
     "date": "2025-03-27",
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
       "No pensaba que fuese capaz de montar un nuevo grupo de rol. Me daba miedo abrirme a gente nueva.",
@@ -1425,7 +1426,7 @@
     ],
     "date": "2025-03-29",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "5-7-5"],
     "show": true,
     "description": [
       "Antes no era capaz de mostrarme tanto a gente con la que no tenía confianza. Ahora me encuentro compartiendo momentos con gente nueva. Siendo yo."
@@ -1440,7 +1441,7 @@
     ],
     "date": "2025-03-30",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
       "¿Qué significan los sueños? A veces pasamos por momentos duros y la noche nos enfrenta a cosas que preferimos evitar."
@@ -1455,7 +1456,7 @@
     ],
     "date": "2025-03-30",
     "selected": true,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "Reflexión", "5-7-5"],
     "show": true,
     "description": [
       "En honor al shinrin-yoku. Dar un paseo por la naturaleza hace que cambie la percepción que tengo del mundo. Me siento uno con el bosque."
@@ -1466,7 +1467,7 @@
     "text": ["A-pren-diz Hai-jin", "o-tra ho-ja del ár-bol", "e-se es Jo-se"],
     "date": "2025-03-30",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
       "En el bosque me he sentido inspirado por un haiku de Shiki."
@@ -1501,7 +1502,7 @@
     ],
     "date": "2025-04-02",
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Reflexión", "Personal", "5-7-5"],
     "show": true,
     "description": [
       "Últimamente trato de abrir mi mente y buscar inspiración. A la vez soy una persona miedosa y que le cuesta salir de su burbuja.",
