@@ -1,0 +1,326 @@
+[
+  {
+    "text": [
+      "Sol y es-tre-llas",
+      "per-fec-to e-qui-li-brio,",
+      "puer-ta a-bier-ta"
+    ],
+    "date": "2025-03-05",
+    "id": 123,
+    "selected": false,
+    "tags": [
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Mo-ja-do_el sue-lo",
+      "mar-zo trae_el e-qui-no-cio",
+      "rít-mi-co ger-mén"
+    ],
+    "date": "2025-03-05",
+    "id": 122,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Se acerca el equinocio de primavera y me inspira a escribir, pero no consigo captarlo en forma de haiku."
+    ]
+  },
+  {
+    "text": [
+      "Du-ra ca-í-da,",
+      "a par-tir de a-ho-ra",
+      "mi-ra tus bo-tas"
+    ],
+    "date": "2025-03-03",
+    "id": 121,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "A veces nos centramos tanto en el ambiente o en los demás que no vemos que los que corremos peligro somos nosotros.",
+      "Es un momento para recordar que tenemos que cuidar de nosotros mismos también."
+    ]
+  },
+  {
+    "text": [
+      "Pe-que-ño go-rrión,",
+      "¿trae-rás las mis-mas plu-mas",
+      "tras el ve-ra-no?"
+    ],
+    "date": "2025-03-03",
+    "id": 120,
+    "selected": true,
+    "tags": [
+      "Naturaleza",
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "De vuel-ta en pie",
+      "ca-mi-no sin co-ge-ar,",
+      "más a-ún due-le"
+    ],
+    "date": "2025-03-02",
+    "id": 119,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Lar-go ca-mi-nar,",
+      "hu-mo con-tra el cie-lo,",
+      "pla-to ca-lien-te"
+    ],
+    "date": "2025-03-02",
+    "id": 118,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Sa-lí con mie-do",
+      "mi-ran-do co-mo vol-ver,",
+      "tiem-po de co-rrer"
+    ],
+    "date": "2025-03-02",
+    "id": 117,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": false
+  },
+  {
+    "text": [
+      "La llu-via ca-e",
+      "el ar-tis-ta es-cri-be",
+      "el al-ma vi-ve"
+    ],
+    "date": "2025-03-01",
+    "id": 116,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Char-co de llu-via,",
+      "e-fí-me-ro re-fle-jo",
+      "llé-va-me a-llí"
+    ],
+    "date": "2025-03-01",
+    "id": 115,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Ex-tra-ño ár-bol,",
+      "re-pa-so mi ca-mi-no",
+      "¿Dón-de me per-dí?"
+    ],
+    "date": "2025-02-27",
+    "id": 114,
+    "selected": true,
+    "tags": [
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "A veces no nos damos cuenta de que nos hemos perdido hasta que no nos topamos con algo extraño, que nos hace ver que no sabemos donde estamos."
+    ]
+  },
+  {
+    "text": [
+      "Yer-mo pá-ra-mo,",
+      "bro-te de-sa-fian-te",
+      "vo-lun-tad sa-cra"
+    ],
+    "date": "2025-02-26",
+    "id": 113,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Mi pa-so de-ja",
+      "hue-llas en el ca-mi-no,",
+      "que_el tiem-po bo-rra"
+    ],
+    "date": "2025-02-25",
+    "id": 112,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Vis-ta in-ver-nal",
+      "pi-ro-tec-nia ro-sa-da",
+      "llu-via de_al-mendras"
+    ],
+    "date": "2025-02-23",
+    "id": 111,
+    "selected": true,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Bien entrado el invierno los almendros empiezan a florecer, llenando los árboles de color rosa, como si de fuegos artificiales se trataran."
+    ]
+  },
+  {
+    "text": [
+      "Al-ta mon-ta-ña",
+      "nu-bes cu-bren tu ci-ma",
+      "a-ho-ra pla-na"
+    ],
+    "date": "2025-02-23",
+    "id": 110,
+    "selected": true,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "He visto unas nubes muy densas y bajas que hacían de techo, como cortando la montaña a mitad. Daba la impresión de que, en lugar de en pico, arriba hubiese una gran planicie."
+    ]
+  },
+  {
+    "text": [
+      "For-mas le-ja-nas",
+      "bru-ma de las mon-ta-ñas",
+      "a-bri-go frí-o"
+    ],
+    "date": "2025-02-20",
+    "id": 109,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Mu-sa mo-nar-ca",
+      "¿có-mo con-si-go ha-cer",
+      "que no te va-yas?"
+    ],
+    "date": "2025-02-18",
+    "id": 108,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "To-dos los co-pos",
+      "a-ca-ban de-rre-ti-dos,",
+      "man-to al-bi-no"
+    ],
+    "date": "2025-02-18",
+    "id": 107,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Siempre decimos que no hay dos copos de nieve iguales, que son únicos. Y aun así todos tienen el mismo destino."
+    ]
+  },
+  {
+    "text": [
+      "Ba-jo es-tre-llas",
+      "nues-tros re-cuer-dos jun-tos",
+      "ro-ban mi sue-ño"
+    ],
+    "date": "2025-02-12",
+    "id": 106,
+    "selected": true,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "E-cos pa-sa-dos,",
+      "es-pi-rí-tus pre-sen-tes,",
+      "re-cuer-dos ro-tos"
+    ],
+    "date": "2025-02-11",
+    "id": 105,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Es-pe-sa nie-bla",
+      "pier-des al pe-re-gri-no,",
+      "¿qué pro-pó-si-to?"
+    ],
+    "date": "2025-02-07",
+    "id": 104,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  }
+]
