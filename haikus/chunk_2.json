@@ -1,24 +1,6 @@
 [
   {
     "text": [
-      "Mi-ro_al o-es-te",
-      "sor-pren-den-te be-lle-za,",
-      "o-ca-so ro-sa"
-    ],
-    "date": "2025-02-06",
-    "id": 103,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Voy de camino a mi partida de rol a última hora de la tarde invernal, y al mirar al oeste veo un cielo rosa precioso."
-    ]
-  },
-  {
-    "text": [
       "Co-rro y co-rro",
       "per-si-go u-na me-ta,",
       "el ho-ri-zon-te"
@@ -322,5 +304,23 @@
       "5-7-5"
     ],
     "show": true
+  },
+  {
+    "text": [
+      "Mar-te_y Ju-pi-ter",
+      "Nep-tu-no_U-ra-no_y Ve-nus,",
+      "cie-lo ú-ni-co"
+    ],
+    "date": "2025-01-28",
+    "id": 83,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Se alinean los planetas en el cielo nocturno, por lo visto no volverá a pasar hasta dentro de cientos de años."
+    ]
   }
 ]

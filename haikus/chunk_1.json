@@ -99,21 +99,6 @@
   },
   {
     "text": [
-      "Sa-lí con mie-do",
-      "mi-ran-do co-mo vol-ver,",
-      "tiem-po de co-rrer"
-    ],
-    "date": "2025-03-02",
-    "id": 117,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "5-7-5"
-    ],
-    "show": false
-  },
-  {
-    "text": [
       "La llu-via ca-e",
       "el ar-tis-ta es-cri-be",
       "el al-ma vi-ve"
@@ -322,5 +307,23 @@
       "5-7-5"
     ],
     "show": true
+  },
+  {
+    "text": [
+      "Mi-ro_al o-es-te",
+      "sor-pren-den-te be-lle-za,",
+      "o-ca-so ro-sa"
+    ],
+    "date": "2025-02-06",
+    "id": 103,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Voy de camino a mi partida de rol a última hora de la tarde invernal, y al mirar al oeste veo un cielo rosa precioso."
+    ]
   }
 ]

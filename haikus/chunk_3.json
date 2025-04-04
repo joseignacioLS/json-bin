@@ -1,24 +1,6 @@
 [
   {
     "text": [
-      "Mar-te_y Ju-pi-ter",
-      "Nep-tu-no_U-ra-no_y Ve-nus,",
-      "cie-lo ú-ni-co"
-    ],
-    "date": "2025-01-28",
-    "id": 83,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Se alinean los planetas en el cielo nocturno, por lo visto no volverá a pasar hasta dentro de cientos de años."
-    ]
-  },
-  {
-    "text": [
       "Dí-as fu-ga-ces",
       "cie-los lle-nos de_es-tre-llas,",
       "bos-ques ne-va-dos"
@@ -68,21 +50,6 @@
   },
   {
     "text": [
-      "Cuan-do pre-gun-tes",
-      "de-bes es-tar a-bier-to",
-      "a la res-pues-ta"
-    ],
-    "date": "2025-01-19",
-    "id": 79,
-    "selected": false,
-    "tags": [
-      "Reflexión",
-      "5-7-5"
-    ],
-    "show": false
-  },
-  {
-    "text": [
       "Bien y mal",
       "es sub-je-ti-vo",
       "y fu-gaz"
@@ -98,34 +65,6 @@
   },
   {
     "text": [
-      "To-dos sa-be-mos",
-      "co-mo fun-cio-na to-do",
-      "si no_es-tá ro-to"
-    ],
-    "date": "2025-01-17",
-    "id": 77,
-    "selected": false,
-    "tags": [
-      "5-7-5"
-    ],
-    "show": false
-  },
-  {
-    "text": [
-      "Po-der e-le-gir",
-      "mi com-ple-to des-ti-no",
-      "al-ma des-nu-da"
-    ],
-    "date": "2025-01-13",
-    "id": 76,
-    "selected": false,
-    "tags": [
-      "5-7-5"
-    ],
-    "show": false
-  },
-  {
-    "text": [
       "Soy li-bre,",
       "pa-ra bien o mal",
       "yo man-do"
@@ -138,48 +77,6 @@
       "3-5-3"
     ],
     "show": true
-  },
-  {
-    "text": [
-      "Ya no se",
-      "que es co-rrec-to",
-      "y que no"
-    ],
-    "date": "2025-01-10",
-    "id": 74,
-    "selected": false,
-    "tags": [
-      "3-5-3"
-    ],
-    "show": false
-  },
-  {
-    "text": [
-      "Al fi-nal",
-      "to-do_es la-men-to",
-      "y pe-na"
-    ],
-    "date": "2025-01-07",
-    "id": 73,
-    "selected": false,
-    "tags": [
-      "3-5-3"
-    ],
-    "show": false
-  },
-  {
-    "text": [
-      "La lu-na",
-      "ya no son-rí-e",
-      "pa-ra mí"
-    ],
-    "date": "2025-01-07",
-    "id": 72,
-    "selected": false,
-    "tags": [
-      "3-5-3"
-    ],
-    "show": false
   },
   {
     "text": [
@@ -213,82 +110,197 @@
   },
   {
     "text": [
-      "¿Y si la vi-da",
-      "no tie-ne más sen-ti-do",
-      "que dis-fru-tar-la?"
-    ],
-    "date": "2025-01-07",
-    "id": 69,
-    "selected": false,
-    "tags": [
-      "5-7-5"
-    ],
-    "show": false
-  },
-  {
-    "text": [
-      "Qui-én di-rí-a",
-      "que_el al-ma_es-tá for-ma-da",
-      "por tan-tas pie-zas?"
-    ],
-    "date": "2025-01-07",
-    "id": 68,
-    "selected": false,
-    "tags": [
-      "5-7-5"
-    ],
-    "show": false
-  },
-  {
-    "text": [
-      "El ar-te",
-      "a-pa-ga_el do-lor",
-      "de mi_al-ma"
-    ],
-    "date": "2025-01-07",
-    "id": 67,
-    "selected": false,
-    "tags": [
-      "3-5-3"
-    ],
-    "show": false
-  },
-  {
-    "text": [
-      "Ás-pe-ro",
-      "do-lor dor-mi-ta",
-      "por den-tro"
-    ],
-    "date": "2025-01-07",
-    "id": 66,
-    "selected": false,
-    "tags": [
-      "3-5-3"
-    ],
-    "show": false
-  },
-  {
-    "text": [
-      "E-xis-te",
-      "re-al-men-te el",
-      "fra-ca-so?"
-    ],
-    "date": "2025-01-07",
-    "id": 65,
-    "selected": false,
-    "tags": [
-      "3-5-3"
-    ],
-    "show": false
-  },
-  {
-    "text": [
       "Tor-men-ta,",
       "a-gi-ta_y_em-pu-ja",
       "mis ve-las"
     ],
     "date": "2025-01-07",
     "id": 64,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Pre-vio_a-mor",
+      "ya des-gas-ta-do,",
+      "¿a-mis-tad?"
+    ],
+    "date": "2025-01-01",
+    "id": 59,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Be-lle-za,",
+      "¿es-tás tam-bién en",
+      "el do-lor?"
+    ],
+    "date": "2025-01-01",
+    "id": 57,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Mi-ro_a-trás",
+      "in-a-ca-ba-do",
+      "per-sis-to"
+    ],
+    "date": "2025-01-01",
+    "id": 56,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "De-ses-pe-ran-za",
+      "ne-gro pe-sar in-ter-no",
+      "llu-via to-rren-cial"
+    ],
+    "date": "2024-12-31",
+    "id": 53,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Pue-de de-cir-se",
+      "al no_e-le-gir su cau-ce,",
+      "in-fe-liz a-gua?"
+    ],
+    "date": "2024-12-31",
+    "id": 50,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Se rom-pen",
+      "vie-jas pro-me-sas,",
+      "ex-tra-ño"
+    ],
+    "date": "2024-12-30",
+    "id": 47,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Las nu-bes",
+      "siem-pre ter-mi-nan",
+      "por ir-se"
+    ],
+    "date": "2024-12-30",
+    "id": 46,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Los sen-ti-mien-tos",
+      "a-flo-ran den-tro de mí,",
+      "bue-nos o ma-los"
+    ],
+    "date": "2024-12-11",
+    "id": 45,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Re-bro-ta",
+      "tras un de-sas-tre,",
+      "la vi-da"
+    ],
+    "date": "2024-11-21",
+    "id": 44,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true,
+    "description": [
+      "Esto fue lo último que escribí antes de que se terminará mi relación esa misma tarde."
+    ]
+  },
+  {
+    "text": [
+      "El ár-bol",
+      "al per-der la_ho-ja",
+      "se mue-re"
+    ],
+    "date": "2024-10-17",
+    "id": 43,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "La_an-sie-dad",
+      "so-bre mi pe-cho",
+      "me_a-ho-ga"
+    ],
+    "date": "2024-10-17",
+    "id": 42,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "El cam-bio",
+      "tra-e con-si-go",
+      "el do-lor"
+    ],
+    "date": "2024-10-17",
+    "id": 41,
     "selected": false,
     "tags": [
       "Personal",
