@@ -9,7 +9,7 @@ fs.readFile("./haikus.json", { encoding: "utf8" }, (err, data) => {
     "./director.json",
     JSON.stringify({
       totalChunks,
-      chuckSize: CHUNK_SIZE,
+      chunkSize: CHUNK_SIZE,
     }),
     (err, data) => {
       err && console.log(err);
@@ -17,7 +17,7 @@ fs.readFile("./haikus.json", { encoding: "utf8" }, (err, data) => {
   );
   for (let i = 0; i < totalChunks; i++) {
     fs.writeFile(
-      `./chuck_${i}.json`,
+      `./chunk_${i}.json`,
       JSON.stringify(
         haikus.slice(i * CHUNK_SIZE, (i + 1) * CHUNK_SIZE),
         null,
