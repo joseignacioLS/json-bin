@@ -8,7 +8,7 @@ fs.readFile("./haikus.json", { encoding: "utf8" }, (err, data) => {
     new Set(
       haikus.reduce((tags, { tags: newTags }) => [...tags, ...newTags], [])
     )
-  ).filter((tag) => !HIDDEN_COLLECTIONS.includes(tag));
+  ).filter((tag) => !HIDDEN_COLLECTIONS.includes(tag)).sort();
   const totalChunks = Math.ceil(haikus.length / CHUNK_SIZE);
   fs.writeFile(
     "./director.json",
