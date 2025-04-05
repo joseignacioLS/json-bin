@@ -1542,5 +1542,16 @@
       "Hoy he visto un grupo de palomas, formando una especie de círculo en el suelo, mientras tomaban el sol.",
       "¿Quizás estaban discutiendo algo?"
     ]
+  },
+  {
+    "id": 146,
+    "text": ["Sin es-pe-rar-lo", "re-ci-bo un re-ga-lo", "¡bo-las de_o-re-o!"],
+    "date": "2025-04-05",
+    "selected": false,
+    "tags": ["Personal", "5-7-5"],
+    "show": true,
+    "description": [
+      "Una amiga ha tenido el detalle de hacerme bolas de oreo. Me ha hecho mucha ilusión."
+    ]
   }
 ]

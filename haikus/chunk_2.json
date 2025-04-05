@@ -1,6 +1,22 @@
 [
   {
     "text": [
+      "Ecos pasados,",
+      "espirítus presentes,",
+      "recuerdos rotos"
+    ],
+    "date": "2025-02-11",
+    "id": 105,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Espesa niebla",
       "pierdes al peregrino,",
       "¿qué propósito?"
@@ -305,21 +321,6 @@
     "selected": false,
     "tags": [
       "Reflexión",
-      "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Cielo cobrizo",
-      "las sombras corren libres,",
-      "llega la noche"
-    ],
-    "date": "2025-01-28",
-    "id": 85,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
       "5-7-5"
     ],
     "show": true
