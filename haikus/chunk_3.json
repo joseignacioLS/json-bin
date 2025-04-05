@@ -1,9 +1,42 @@
 [
   {
     "text": [
-      "Dí-as fu-ga-ces",
-      "cie-los lle-nos de_es-tre-llas,",
-      "bos-ques ne-va-dos"
+      "Ramas desnudas",
+      "cielos de tonos grises,",
+      "final del ciclo"
+    ],
+    "date": "2025-01-28",
+    "id": 84,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Marte y Jupiter",
+      "Neptuno Urano y Venus,",
+      "cielo único"
+    ],
+    "date": "2025-01-28",
+    "id": 83,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Se alinean los planetas en el cielo nocturno, por lo visto no volverá a pasar hasta dentro de cientos de años."
+    ]
+  },
+  {
+    "text": [
+      "Días fugaces",
+      "cielos llenos de estrellas,",
+      "bosques nevados"
     ],
     "date": "2025-01-28",
     "id": 82,
@@ -16,9 +49,9 @@
   },
   {
     "text": [
-      "El to-cón",
-      "pa-re-ce muer-to,",
-      "es-pe-ra"
+      "El tocón",
+      "parece muerto,",
+      "espera"
     ],
     "date": "2025-01-28",
     "id": 81,
@@ -31,9 +64,9 @@
   },
   {
     "text": [
-      "Mi_a-mi-go",
-      "se fue por siem-pre,",
-      "dos a-ños"
+      "Mi amigo",
+      "se fue por siempre,",
+      "dos años"
     ],
     "date": "2025-01-23",
     "id": 80,
@@ -51,8 +84,8 @@
   {
     "text": [
       "Bien y mal",
-      "es sub-je-ti-vo",
-      "y fu-gaz"
+      "es subjetivo",
+      "y fugaz"
     ],
     "date": "2025-01-17",
     "id": 78,
@@ -65,9 +98,9 @@
   },
   {
     "text": [
-      "Soy li-bre,",
-      "pa-ra bien o mal",
-      "yo man-do"
+      "Soy libre,",
+      "para bien o mal",
+      "yo mando"
     ],
     "date": "2025-01-13",
     "id": 75,
@@ -80,9 +113,9 @@
   },
   {
     "text": [
-      "Se_a-ca-bó,",
-      "frí-a tris-te-za,",
-      "des-a-mor"
+      "Se acabó,",
+      "fría tristeza,",
+      "desamor"
     ],
     "date": "2025-01-07",
     "id": 71,
@@ -95,9 +128,9 @@
   },
   {
     "text": [
-      "Me_han ro-to,",
-      "de-pen-de de mí",
-      "re-gre-sar"
+      "Me han roto,",
+      "depende de mí",
+      "regresar"
     ],
     "date": "2025-01-07",
     "id": 70,
@@ -110,9 +143,9 @@
   },
   {
     "text": [
-      "Tor-men-ta,",
-      "a-gi-ta_y_em-pu-ja",
-      "mis ve-las"
+      "Tormenta,",
+      "agita y empuja",
+      "mis velas"
     ],
     "date": "2025-01-07",
     "id": 64,
@@ -125,9 +158,9 @@
   },
   {
     "text": [
-      "Pre-vio_a-mor",
-      "ya des-gas-ta-do,",
-      "¿a-mis-tad?"
+      "Previo amor",
+      "ya desgastado,",
+      "¿amistad?"
     ],
     "date": "2025-01-01",
     "id": 59,
@@ -140,9 +173,9 @@
   },
   {
     "text": [
-      "Be-lle-za,",
-      "¿es-tás tam-bién en",
-      "el do-lor?"
+      "Belleza,",
+      "¿estás también en",
+      "el dolor?"
     ],
     "date": "2025-01-01",
     "id": 57,
@@ -156,9 +189,9 @@
   },
   {
     "text": [
-      "Mi-ro_a-trás",
-      "in-a-ca-ba-do",
-      "per-sis-to"
+      "Miro atrás",
+      "inacabado",
+      "persisto"
     ],
     "date": "2025-01-01",
     "id": 56,
@@ -171,9 +204,9 @@
   },
   {
     "text": [
-      "De-ses-pe-ran-za",
-      "ne-gro pe-sar in-ter-no",
-      "llu-via to-rren-cial"
+      "Desesperanza",
+      "negro pesar interno",
+      "lluvia torrencial"
     ],
     "date": "2024-12-31",
     "id": 53,
@@ -186,9 +219,9 @@
   },
   {
     "text": [
-      "Pue-de de-cir-se",
-      "al no_e-le-gir su cau-ce,",
-      "in-fe-liz a-gua?"
+      "Puede decirse",
+      "al no elegir su cauce,",
+      "infeliz agua?"
     ],
     "date": "2024-12-31",
     "id": 50,
@@ -202,9 +235,9 @@
   },
   {
     "text": [
-      "Se rom-pen",
-      "vie-jas pro-me-sas,",
-      "ex-tra-ño"
+      "Se rompen",
+      "viejas promesas,",
+      "extraño"
     ],
     "date": "2024-12-30",
     "id": 47,
@@ -217,9 +250,9 @@
   },
   {
     "text": [
-      "Las nu-bes",
-      "siem-pre ter-mi-nan",
-      "por ir-se"
+      "Las nubes",
+      "siempre terminan",
+      "por irse"
     ],
     "date": "2024-12-30",
     "id": 46,
@@ -232,9 +265,9 @@
   },
   {
     "text": [
-      "Los sen-ti-mien-tos",
-      "a-flo-ran den-tro de mí,",
-      "bue-nos o ma-los"
+      "Los sentimientos",
+      "afloran dentro de mí,",
+      "buenos o malos"
     ],
     "date": "2024-12-11",
     "id": 45,
@@ -247,9 +280,9 @@
   },
   {
     "text": [
-      "Re-bro-ta",
-      "tras un de-sas-tre,",
-      "la vi-da"
+      "Rebrota",
+      "tras un desastre,",
+      "la vida"
     ],
     "date": "2024-11-21",
     "id": 44,
@@ -265,42 +298,12 @@
   },
   {
     "text": [
-      "El ár-bol",
-      "al per-der la_ho-ja",
-      "se mue-re"
+      "El árbol",
+      "al perder la hoja",
+      "se muere"
     ],
     "date": "2024-10-17",
     "id": 43,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "3-5-3"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "La_an-sie-dad",
-      "so-bre mi pe-cho",
-      "me_a-ho-ga"
-    ],
-    "date": "2024-10-17",
-    "id": 42,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "3-5-3"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "El cam-bio",
-      "tra-e con-si-go",
-      "el do-lor"
-    ],
-    "date": "2024-10-17",
-    "id": 41,
     "selected": false,
     "tags": [
       "Personal",

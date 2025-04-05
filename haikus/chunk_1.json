@@ -1,9 +1,46 @@
 [
   {
     "text": [
-      "Sol y es-tre-llas",
-      "per-fec-to e-qui-li-brio,",
-      "puer-ta a-bier-ta"
+      "Tras tanto tiempo,",
+      "es tu hora de brillar",
+      "¡suerte amigo!"
+    ],
+    "date": "2025-03-10",
+    "id": 125,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Un buen amigo mío se enfrenta a un momento crucial en su vida. Le deseo lo mejor."
+    ]
+  },
+  {
+    "text": [
+      "¡Un verdecillo!",
+      "visita primaveral",
+      "algo temprana"
+    ],
+    "date": "2025-03-10",
+    "id": 124,
+    "selected": true,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "He visto un verdecillo posado en un rama, pero aún quedan unas semanas para la primavera.",
+      "Que curioso."
+    ]
+  },
+  {
+    "text": [
+      "Sol y estrellas",
+      "perfecto equilibrio,",
+      "puerta abierta"
     ],
     "date": "2025-03-05",
     "id": 123,
@@ -15,9 +52,9 @@
   },
   {
     "text": [
-      "Mo-ja-do_el sue-lo",
-      "mar-zo trae_el e-qui-no-cio",
-      "rít-mi-co ger-mén"
+      "Mojado el suelo",
+      "marzo trae el equinocio",
+      "rítmico germén"
     ],
     "date": "2025-03-05",
     "id": 122,
@@ -33,9 +70,9 @@
   },
   {
     "text": [
-      "Du-ra ca-í-da,",
-      "a par-tir de a-ho-ra",
-      "mi-ra tus bo-tas"
+      "Dura caída,",
+      "a partir de ahora",
+      "mira tus botas"
     ],
     "date": "2025-03-03",
     "id": 121,
@@ -52,9 +89,9 @@
   },
   {
     "text": [
-      "Pe-que-ño go-rrión,",
-      "¿trae-rás las mis-mas plu-mas",
-      "tras el ve-ra-no?"
+      "Pequeño gorrión,",
+      "¿traerás las mismas plumas",
+      "tras el verano?"
     ],
     "date": "2025-03-03",
     "id": 120,
@@ -68,9 +105,9 @@
   },
   {
     "text": [
-      "De vuel-ta en pie",
-      "ca-mi-no sin co-ge-ar,",
-      "más a-ún due-le"
+      "De vuelta en pie",
+      "camino sin cogear,",
+      "más aún duele"
     ],
     "date": "2025-03-02",
     "id": 119,
@@ -84,9 +121,9 @@
   },
   {
     "text": [
-      "Lar-go ca-mi-nar,",
-      "hu-mo con-tra el cie-lo,",
-      "pla-to ca-lien-te"
+      "Largo caminar,",
+      "humo contra el cielo,",
+      "plato caliente"
     ],
     "date": "2025-03-02",
     "id": 118,
@@ -99,9 +136,9 @@
   },
   {
     "text": [
-      "La llu-via ca-e",
-      "el ar-tis-ta es-cri-be",
-      "el al-ma vi-ve"
+      "La lluvia cae",
+      "el artista escribe",
+      "el alma vive"
     ],
     "date": "2025-03-01",
     "id": 116,
@@ -114,9 +151,9 @@
   },
   {
     "text": [
-      "Char-co de llu-via,",
-      "e-fí-me-ro re-fle-jo",
-      "llé-va-me a-llí"
+      "Charco de lluvia,",
+      "efímero reflejo",
+      "llévame allí"
     ],
     "date": "2025-03-01",
     "id": 115,
@@ -129,9 +166,9 @@
   },
   {
     "text": [
-      "Ex-tra-ño ár-bol,",
-      "re-pa-so mi ca-mi-no",
-      "¿Dón-de me per-dí?"
+      "Extraño árbol,",
+      "repaso mi camino",
+      "¿Dónde me perdí?"
     ],
     "date": "2025-02-27",
     "id": 114,
@@ -147,9 +184,9 @@
   },
   {
     "text": [
-      "Yer-mo pá-ra-mo,",
-      "bro-te de-sa-fian-te",
-      "vo-lun-tad sa-cra"
+      "Yermo páramo,",
+      "brote desafiante",
+      "voluntad sacra"
     ],
     "date": "2025-02-26",
     "id": 113,
@@ -162,9 +199,9 @@
   },
   {
     "text": [
-      "Mi pa-so de-ja",
-      "hue-llas en el ca-mi-no,",
-      "que_el tiem-po bo-rra"
+      "Mi paso deja",
+      "huellas en el camino,",
+      "que el tiempo borra"
     ],
     "date": "2025-02-25",
     "id": 112,
@@ -177,9 +214,9 @@
   },
   {
     "text": [
-      "Vis-ta in-ver-nal",
-      "pi-ro-tec-nia ro-sa-da",
-      "llu-via de_al-mendras"
+      "Vista invernal",
+      "pirotecnia rosada",
+      "lluvia de almendras"
     ],
     "date": "2025-02-23",
     "id": 111,
@@ -195,9 +232,9 @@
   },
   {
     "text": [
-      "Al-ta mon-ta-ña",
-      "nu-bes cu-bren tu ci-ma",
-      "a-ho-ra pla-na"
+      "Alta montaña",
+      "nubes cubren tu cima",
+      "ahora plana"
     ],
     "date": "2025-02-23",
     "id": 110,
@@ -213,9 +250,9 @@
   },
   {
     "text": [
-      "For-mas le-ja-nas",
-      "bru-ma de las mon-ta-ñas",
-      "a-bri-go frí-o"
+      "Formas lejanas",
+      "bruma de las montañas",
+      "abrigo frío"
     ],
     "date": "2025-02-20",
     "id": 109,
@@ -228,9 +265,9 @@
   },
   {
     "text": [
-      "Mu-sa mo-nar-ca",
-      "¿có-mo con-si-go ha-cer",
-      "que no te va-yas?"
+      "Musa monarca",
+      "¿cómo consigo hacer",
+      "que no te vayas?"
     ],
     "date": "2025-02-18",
     "id": 108,
@@ -244,9 +281,9 @@
   },
   {
     "text": [
-      "To-dos los co-pos",
-      "a-ca-ban de-rre-ti-dos,",
-      "man-to al-bi-no"
+      "Todos los copos",
+      "acaban derretidos,",
+      "manto albino"
     ],
     "date": "2025-02-18",
     "id": 107,
@@ -263,9 +300,9 @@
   },
   {
     "text": [
-      "Ba-jo es-tre-llas",
-      "nues-tros re-cuer-dos jun-tos",
-      "ro-ban mi sue-ño"
+      "Bajo estrellas",
+      "nuestros recuerdos juntos",
+      "roban mi sueño"
     ],
     "date": "2025-02-12",
     "id": 106,
@@ -278,9 +315,9 @@
   },
   {
     "text": [
-      "E-cos pa-sa-dos,",
-      "es-pi-rí-tus pre-sen-tes,",
-      "re-cuer-dos ro-tos"
+      "Ecos pasados,",
+      "espirítus presentes,",
+      "recuerdos rotos"
     ],
     "date": "2025-02-11",
     "id": 105,
@@ -291,39 +328,5 @@
       "5-7-5"
     ],
     "show": true
-  },
-  {
-    "text": [
-      "Es-pe-sa nie-bla",
-      "pier-des al pe-re-gri-no,",
-      "¿qué pro-pó-si-to?"
-    ],
-    "date": "2025-02-07",
-    "id": 104,
-    "selected": false,
-    "tags": [
-      "Reflexión",
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Mi-ro_al o-es-te",
-      "sor-pren-den-te be-lle-za,",
-      "o-ca-so ro-sa"
-    ],
-    "date": "2025-02-06",
-    "id": 103,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Voy de camino a mi partida de rol a última hora de la tarde invernal, y al mirar al oeste veo un cielo rosa precioso."
-    ]
   }
 ]

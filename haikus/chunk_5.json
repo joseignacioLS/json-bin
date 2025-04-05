@@ -1,9 +1,39 @@
 [
   {
     "text": [
-      "Oc-tu-bre,",
-      "¿por qué no du-ras?",
-      "qué-da-te"
+      "El riachuelo",
+      "huyendo del deshielo",
+      "otro año más"
+    ],
+    "date": "2017-10-06",
+    "id": 12,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Temo decidir",
+      "me quedo sin opciones,",
+      "detente tiempo"
+    ],
+    "date": "2017-10-06",
+    "id": 11,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Octubre,",
+      "¿por qué no duras?",
+      "quédate"
     ],
     "date": "2017-10-06",
     "id": 7,
@@ -16,9 +46,9 @@
   },
   {
     "text": [
-      "De no-che_el fue-go",
-      "cre-pi-ta_en la ho-gue-ra,",
-      "ca-lien-ta_el a-mor"
+      "De noche el fuego",
+      "crepita en la hoguera,",
+      "calienta el amor"
     ],
     "date": "2017-10-06",
     "id": 6,
@@ -31,9 +61,9 @@
   },
   {
     "text": [
-      "La som-bra lar-ga",
-      "se-ña-la_al frí-o nor-te,",
-      "los o-sos duer-men"
+      "La sombra larga",
+      "señala al frío norte,",
+      "los osos duermen"
     ],
     "date": "2017-10-06",
     "id": 5,
@@ -46,9 +76,9 @@
   },
   {
     "text": [
-      "La lu-na ro-ja",
-      "in-di-ca la lle-ga-da,",
-      "fe-liz co-se-cha"
+      "La luna roja",
+      "indica la llegada,",
+      "feliz cosecha"
     ],
     "date": "2017-10-06",
     "id": 4,
@@ -61,9 +91,9 @@
   },
   {
     "text": [
-      "El ár-bol",
-      "mu-da las ho-jas,",
-      "can-sa-do"
+      "El árbol",
+      "muda las hojas,",
+      "cansado"
     ],
     "date": "2017-10-06",
     "id": 3,
@@ -76,9 +106,9 @@
   },
   {
     "text": [
-      "La ca-la-ba-za,",
-      "cre-ce_en el huer-to,fe-liz,",
-      "pron-to son-rei-rá."
+      "La calabaza,",
+      "crece en el huerto,feliz,",
+      "pronto sonreirá."
     ],
     "date": "2017-10-06",
     "id": 2,
@@ -91,9 +121,9 @@
   },
   {
     "text": [
-      "La ho-ja tiem-bla,",
-      "por fin em-pie-za_a ca-er,",
-      "lle-ga_el o-to-ño"
+      "La hoja tiembla,",
+      "por fin empieza a caer,",
+      "llega el otoño"
     ],
     "date": "2017-10-06",
     "id": 1,
@@ -106,9 +136,9 @@
   },
   {
     "text": [
-      "O-to-ño,",
-      "ho-jas de co-lor",
-      "na-ran-ja"
+      "Otoño,",
+      "hojas de color",
+      "naranja"
     ],
     "date": "2017-10-06",
     "id": 0,

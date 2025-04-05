@@ -1,9 +1,43 @@
 [
   {
     "text": [
-      "Co-rro y co-rro",
-      "per-si-go u-na me-ta,",
-      "el ho-ri-zon-te"
+      "Espesa niebla",
+      "pierdes al peregrino,",
+      "¿qué propósito?"
+    ],
+    "date": "2025-02-07",
+    "id": 104,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Miro al oeste",
+      "sorprendente belleza,",
+      "ocaso rosa"
+    ],
+    "date": "2025-02-06",
+    "id": 103,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Voy de camino a mi partida de rol a última hora de la tarde invernal, y al mirar al oeste veo un cielo rosa precioso."
+    ]
+  },
+  {
+    "text": [
+      "Corro y corro",
+      "persigo una meta,",
+      "el horizonte"
     ],
     "date": "2025-02-06",
     "id": 102,
@@ -16,9 +50,9 @@
   },
   {
     "text": [
-      "Ba-jo tu som-bra",
-      "es-pe-ro a las flo-res,",
-      "gi-gan-te ver-de"
+      "Bajo tu sombra",
+      "espero a las flores,",
+      "gigante verde"
     ],
     "date": "2025-02-05",
     "id": 101,
@@ -31,9 +65,9 @@
   },
   {
     "text": [
-      "Sien-to en-vi-dia,",
-      "ar-tis-tas an-ces-tra-les",
-      "que be-llos ver-sos"
+      "Siento envidia,",
+      "artistas ancestrales",
+      "que bellos versos"
     ],
     "date": "2025-02-01",
     "id": 100,
@@ -46,9 +80,9 @@
   },
   {
     "text": [
-      "Vi-si-ta bre-ve,",
-      "go-rrión can-ta frus-tra-do",
-      "vue-lo ham-brien-to"
+      "Visita breve,",
+      "gorrión canta frustrado",
+      "vuelo hambriento"
     ],
     "date": "2025-02-01",
     "id": 99,
@@ -64,9 +98,9 @@
   },
   {
     "text": [
-      "Gra-ta sor-pre-sa,",
-      "¡u-na pa-ta-ta de-luxe",
-      "en mi pe-di-do!"
+      "Grata sorpresa,",
+      "¡una patata deluxe",
+      "en mi pedido!"
     ],
     "date": "2025-02-01",
     "id": 98,
@@ -82,9 +116,9 @@
   },
   {
     "text": [
-      "U-na u-rra-ca",
-      "re-bus-ca en-tre res-tos,",
-      "¡va-ya ban-que-te!"
+      "Una urraca",
+      "rebusca entre restos,",
+      "¡vaya banquete!"
     ],
     "date": "2025-02-01",
     "id": 97,
@@ -100,9 +134,9 @@
   },
   {
     "text": [
-      "Bri-sa he-la-da",
-      "cá-li-do to-que de sol,",
-      "dí-a in-ver-nal"
+      "Brisa helada",
+      "cálido toque de sol,",
+      "día invernal"
     ],
     "date": "2025-02-01",
     "id": 96,
@@ -118,9 +152,9 @@
   },
   {
     "text": [
-      "Tris-tes re-cuer-dos,",
-      "re-loj re-ci-ta man-tra",
-      "me-ce la no-che"
+      "Tristes recuerdos,",
+      "reloj recita mantra",
+      "mece la noche"
     ],
     "date": "2025-02-01",
     "id": 95,
@@ -133,9 +167,9 @@
   },
   {
     "text": [
-      "Na-tu-ra-le-za",
-      "cu-bier-ta de as-fal-to,",
-      "mu-sa nos-tal-gía"
+      "Naturaleza",
+      "cubierta de asfalto,",
+      "musa nostalgía"
     ],
     "date": "2025-01-31",
     "id": 94,
@@ -148,9 +182,9 @@
   },
   {
     "text": [
-      "In-di-fe-ren-tes,",
-      "cán-ti-cos de go-rrio-nes",
-      "en el in-vier-no"
+      "Indiferentes,",
+      "cánticos de gorriones",
+      "en el invierno"
     ],
     "date": "2025-01-31",
     "id": 93,
@@ -163,9 +197,9 @@
   },
   {
     "text": [
-      "Un des-per-fec-to",
-      "en mi co-che cre-í ver,",
-      "u-na po-li-lla"
+      "Un desperfecto",
+      "en mi coche creí ver,",
+      "una polilla"
     ],
     "date": "2025-01-30",
     "id": 92,
@@ -182,9 +216,9 @@
   },
   {
     "text": [
-      "Cual lu-ciér-na-gas",
-      "a-lum-bran mi pa-se-o",
-      "mi-les de lu-ces"
+      "Cual luciérnagas",
+      "alumbran mi paseo",
+      "miles de luces"
     ],
     "date": "2025-01-30",
     "id": 91,
@@ -198,9 +232,9 @@
   },
   {
     "text": [
-      "A-mi-go cuen-co",
-      "to-ma-mos el té jun-tos,",
-      "ma-ña-nas frí-as"
+      "Amigo cuenco",
+      "tomamos el té juntos,",
+      "mañanas frías"
     ],
     "date": "2025-01-30",
     "id": 90,
@@ -216,9 +250,9 @@
   },
   {
     "text": [
-      "U-na_al-mo-ha-da",
-      "don-de an-tes e-ran dos,",
-      "sue-ño le-ja-no"
+      "Una almohada",
+      "donde antes eran dos,",
+      "sueño lejano"
     ],
     "date": "2025-01-29",
     "id": 89,
@@ -231,9 +265,9 @@
   },
   {
     "text": [
-      "El pol-vo cu-bre",
-      "las te-clas de plás-ti-co,",
-      "des-ti-no co-mún"
+      "El polvo cubre",
+      "las teclas de plástico,",
+      "destino común"
     ],
     "date": "2025-01-29",
     "id": 88,
@@ -247,9 +281,9 @@
   },
   {
     "text": [
-      "Ri-sas ner-vio-sas,",
-      "dos a-man-tes dis-fru-tan",
-      "es-tan-do jun-tos"
+      "Risas nerviosas,",
+      "dos amantes disfrutan",
+      "estando juntos"
     ],
     "date": "2025-01-28",
     "id": 87,
@@ -262,9 +296,9 @@
   },
   {
     "text": [
-      "E-ter-no tic-tac",
-      "su-ce-si-ón in-fi-ni-ta,",
-      "sen-ti-do fa-laz"
+      "Eterno tictac",
+      "sucesión infinita,",
+      "sentido falaz"
     ],
     "date": "2025-01-28",
     "id": 86,
@@ -277,9 +311,9 @@
   },
   {
     "text": [
-      "Cie-lo co-bri-zo",
-      "las som-bras co-rren li-bres,",
-      "lle-ga la no-che"
+      "Cielo cobrizo",
+      "las sombras corren libres,",
+      "llega la noche"
     ],
     "date": "2025-01-28",
     "id": 85,
@@ -289,38 +323,5 @@
       "5-7-5"
     ],
     "show": true
-  },
-  {
-    "text": [
-      "Ra-mas des-nu-das",
-      "cie-los de to-nos gri-ses,",
-      "fi-nal del ci-clo"
-    ],
-    "date": "2025-01-28",
-    "id": 84,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Mar-te_y Ju-pi-ter",
-      "Nep-tu-no_U-ra-no_y Ve-nus,",
-      "cie-lo ú-ni-co"
-    ],
-    "date": "2025-01-28",
-    "id": 83,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Se alinean los planetas en el cielo nocturno, por lo visto no volverá a pasar hasta dentro de cientos de años."
-    ]
   }
 ]

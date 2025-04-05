@@ -1,10 +1,48 @@
 [
   {
+    "id": 145,
+    "text": [
+      "Siete palomas,",
+      "conclave vespertino,",
+      "¿cuál es el tema?"
+    ],
+    "date": "2025-04-05",
+    "selected": true,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Hoy he visto un grupo de palomas, formando una especie de círculo en el suelo, mientras tomaban el sol.",
+      "¿Quizás estaban discutiendo algo?"
+    ]
+  },
+  {
+    "id": 144,
+    "text": [
+      "Despreocupado,",
+      "disfruté buena racha",
+      "pero terminó"
+    ],
+    "date": "2025-04-04",
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Ojalá supieramos que estamos en los buenos tiempos, antes de que los tiempos buenos se acabasen."
+    ]
+  },
+  {
     "id": 143,
     "text": [
-      "Ob-ser-vo_el mun-do,",
-      "mis ra-í-ces pro-fun-das",
-      "no me re-tie-nen"
+      "Observo el mundo,",
+      "mis raíces profundas",
+      "no me retienen"
     ],
     "date": "2025-04-02",
     "selected": false,
@@ -22,9 +60,9 @@
   {
     "id": 142,
     "text": [
-      "Cris-tal he-la-do",
-      "sus-pi-ros in-co-ne-xos",
-      "muer-tes ne-va-das"
+      "Cristal helado",
+      "suspiros inconexos",
+      "muertes nevadas"
     ],
     "date": "2025-03-30",
     "selected": false,
@@ -44,9 +82,9 @@
   {
     "id": 141,
     "text": [
-      "A-pren-diz Hai-jin",
-      "o-tra ho-ja del ár-bol",
-      "e-se es Jo-se"
+      "Aprendiz Haijin",
+      "otra hoja del árbol",
+      "ese es Jose"
     ],
     "date": "2025-03-30",
     "selected": false,
@@ -62,9 +100,9 @@
   {
     "id": 140,
     "text": [
-      "Ba-ño de bos-que",
-      "que ex-tra-ño con-cep-to",
-      "¿ver-dad ár-bo-les?"
+      "Baño de bosque",
+      "que extraño concepto",
+      "¿verdad árboles?"
     ],
     "date": "2025-03-30",
     "selected": true,
@@ -81,9 +119,9 @@
   {
     "id": 139,
     "text": [
-      "O-tro sue-ño más",
-      "mi sub-cons-cien-te lu-cha",
-      "a-bro los o-jos"
+      "Otro sueño más",
+      "mi subconsciente lucha",
+      "abro los ojos"
     ],
     "date": "2025-03-30",
     "selected": false,
@@ -99,9 +137,9 @@
   {
     "id": 138,
     "text": [
-      "Re-í-mos jun-tos,",
-      "sin sa-ber quie-nes so-mos",
-      "nos a-cep-ta-mos"
+      "Reímos juntos,",
+      "sin saber quienes somos",
+      "nos aceptamos"
     ],
     "date": "2025-03-29",
     "selected": false,
@@ -117,9 +155,9 @@
   {
     "id": 137,
     "text": [
-      "Da-dos de vein-te,",
-      "a-ven-tu-ras é-pi-cas,",
-      "nue-vos a-mi-gos"
+      "Dados de veinte,",
+      "aventuras épicas,",
+      "nuevos amigos"
     ],
     "date": "2025-03-27",
     "selected": true,
@@ -136,9 +174,9 @@
   {
     "id": 136,
     "text": [
-      "No-che tem-pra-na,",
-      "sua-ve ca-lor de le-cho,",
-      "ca-e a-re-na"
+      "Noche temprana,",
+      "suave calor de lecho,",
+      "cae arena"
     ],
     "date": "2025-03-26",
     "selected": false,
@@ -156,9 +194,9 @@
   {
     "id": 135,
     "text": [
-      "In-vier-no a-trás,",
-      "so-bre ra-mas ca-du-cas",
-      "re-na-cen ho-jas"
+      "Invierno atrás,",
+      "sobre ramas caducas",
+      "renacen hojas"
     ],
     "date": "2025-03-26",
     "selected": false,
@@ -174,9 +212,9 @@
   {
     "id": 134,
     "text": [
-      "Lle-ga el lu-nes,",
-      "de nue-vo me pre-gun-to,",
-      "¿por qué tra-ba-jar?"
+      "Llega el lunes,",
+      "de nuevo me pregunto,",
+      "¿por qué trabajar?"
     ],
     "date": "2025-03-23",
     "selected": true,
@@ -192,9 +230,9 @@
   {
     "id": 133,
     "text": [
-      "Au-gu-rio ne-gro,",
-      "cru-zan nues-tros ca-mi-nos,",
-      "co-ne-xión mu-da"
+      "Augurio negro,",
+      "cruzan nuestros caminos,",
+      "conexión muda"
     ],
     "date": "2025-03-23",
     "selected": false,
@@ -211,9 +249,9 @@
   {
     "id": 132,
     "text": [
-      "Briz-nas su-su-rran,",
-      "ba-jo un cie-lo sin lu-na",
-      "sol-ta-mos car-ga"
+      "Briznas susurran,",
+      "bajo un cielo sin luna",
+      "soltamos carga"
     ],
     "date": "2025-03-23",
     "selected": false,
@@ -229,9 +267,9 @@
   {
     "id": 131,
     "text": [
-      "La fau-na ron-ca,",
-      "vie-jos a-mi-gos cuen-tan",
-      "nue-vas ba-ta-llas"
+      "La fauna ronca,",
+      "viejos amigos cuentan",
+      "nuevas batallas"
     ],
     "date": "2025-03-22",
     "selected": false,
@@ -248,9 +286,9 @@
   {
     "id": 130,
     "text": [
-      "Via-jo al nor-te,",
-      "A-li-can-te tras de mí,",
-      "son-rí-e_el Maig-mó"
+      "Viajo al norte,",
+      "Alicante tras de mí,",
+      "sonríe el Maigmó"
     ],
     "date": "2025-03-21",
     "selected": true,
@@ -268,9 +306,9 @@
   {
     "id": 129,
     "text": [
-      "Tras la co-li-na",
-      "un ba-ño pla-te-a-do,",
-      "la lu-na lle-na"
+      "Tras la colina",
+      "un baño plateado,",
+      "la luna llena"
     ],
     "date": "2025-03-16",
     "selected": false,
@@ -286,9 +324,9 @@
   {
     "id": 128,
     "text": [
-      "Yaz-co per-di-do,",
-      "to-dos quie-ren más tiem-po,",
-      "a mi me so-bra"
+      "Yazco perdido,",
+      "todos quieren más tiempo,",
+      "a mi me sobra"
     ],
     "date": "2025-03-16",
     "selected": false,
@@ -304,9 +342,9 @@
   {
     "id": 127,
     "text": [
-      "Fu-gaz mo-men-to,",
-      "u-na ye-ma flo-re-ce,",
-      "so-le-dad ro-ta"
+      "Fugaz momento,",
+      "una yema florece,",
+      "soledad rota"
     ],
     "date": "2025-03-15",
     "selected": false,
@@ -319,9 +357,9 @@
   {
     "id": 126,
     "text": [
-      "Tron-co sin ra-mas",
-      "a la fuer-za a-pren-des",
-      "flo-re-ce al-to"
+      "Tronco sin ramas",
+      "a la fuerza aprendes",
+      "florece alto"
     ],
     "date": "2025-03-15",
     "selected": true,
@@ -333,43 +371,6 @@
     "show": true,
     "description": [
       "Es curioso ver como los árboles tiene ramas a partir de cierta altura. Han aprendido de sus errores y solo producen yemas donde saben que es fructífero."
-    ]
-  },
-  {
-    "text": [
-      "Tras tan-to tiem-po,",
-      "es tu ho-ra de bri-llar",
-      "¡suer-te a-mi-go!"
-    ],
-    "date": "2025-03-10",
-    "id": 125,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Un buen amigo mío se enfrenta a un momento crucial en su vida. Le deseo lo mejor."
-    ]
-  },
-  {
-    "text": [
-      "¡Un ver-de-ci-llo!",
-      "vi-si-ta pri-ma-ve-ral",
-      "al-go tem-pra-na"
-    ],
-    "date": "2025-03-10",
-    "id": 124,
-    "selected": true,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "He visto un verdecillo posado en un rama, pero aún quedan unas semanas para la primavera.",
-      "Que curioso."
     ]
   }
 ]

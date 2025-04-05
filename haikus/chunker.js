@@ -25,7 +25,10 @@ fs.readFile("./haikus.json", { encoding: "utf8" }, (err, data) => {
     fs.writeFile(
       `./chunk_${i}.json`,
       JSON.stringify(
-        haikus.slice(i * CHUNK_SIZE, (i + 1) * CHUNK_SIZE),
+        haikus.slice(i * CHUNK_SIZE, (i + 1) * CHUNK_SIZE).map(h => {
+          h.text = h.text.map(l => l.replace(/-/g, "").replace(/_/g, " "));
+          return h;
+        }),
         null,
         2
       ),

@@ -1511,5 +1511,36 @@
       "Últimamente trato de abrir mi mente y buscar inspiración. A la vez soy una persona miedosa y que le cuesta salir de su burbuja.",
       "Quiero vivir sin miedo."
     ]
+  },
+  {
+    "id": 144,
+    "text": [
+      "Des-preo-cu-pa-do,",
+      "dis-fru-té bue-na ra-cha",
+      "pe-ro ter-mi-nó"
+    ],
+    "date": "2025-04-04",
+    "selected": false,
+    "tags": ["Reflexión", "Personal", "5-7-5"],
+    "show": true,
+    "description": [
+      "Ojalá supieramos que estamos en los buenos tiempos, antes de que los tiempos buenos se acabasen."
+    ]
+  },
+  {
+    "id": 145,
+    "text": [
+      "Sie-te pa-lo-mas,",
+      "con-cla-ve ves-per-ti-no,",
+      "¿cuál es el te-ma?"
+    ],
+    "date": "2025-04-05",
+    "selected": true,
+    "tags": ["Naturaleza", "5-7-5"],
+    "show": true,
+    "description": [
+      "Hoy he visto un grupo de palomas, formando una especie de círculo en el suelo, mientras tomaban el sol.",
+      "¿Quizás estaban discutiendo algo?"
+    ]
   }
 ]
