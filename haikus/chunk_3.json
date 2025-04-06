@@ -1,6 +1,22 @@
 [
   {
     "text": [
+      "El polvo cubre",
+      "las teclas de plástico,",
+      "destino común"
+    ],
+    "date": "2025-01-29",
+    "id": 88,
+    "selected": true,
+    "tags": [
+      "Personal",
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Risas nerviosas,",
       "dos amantes disfrutan",
       "estando juntos"
@@ -286,21 +302,6 @@
     ],
     "date": "2024-12-30",
     "id": 47,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "3-5-3"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Las nubes",
-      "siempre terminan",
-      "por irse"
-    ],
-    "date": "2024-12-30",
-    "id": 46,
     "selected": false,
     "tags": [
       "Personal",

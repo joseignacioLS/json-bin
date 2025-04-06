@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Las nubes",
+      "siempre terminan",
+      "por irse"
+    ],
+    "date": "2024-12-30",
+    "id": 46,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Los sentimientos",
       "afloran dentro de mí,",
       "buenos o malos"
@@ -287,22 +302,6 @@
     "tags": [
       "Naturaleza",
       "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Desnudo",
-      "el árbol duerme,",
-      "¿volverá?"
-    ],
-    "date": "2019-01-13",
-    "id": 17,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "Reflexión",
-      "3-5-3"
     ],
     "show": true
   }

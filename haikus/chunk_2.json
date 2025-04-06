@@ -1,6 +1,22 @@
 [
   {
     "text": [
+      "Musa monarca",
+      "¿cómo consigo hacer",
+      "que no te vayas?"
+    ],
+    "date": "2025-02-18",
+    "id": 108,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Todos los copos",
       "acaban derretidos,",
       "manto albino"
@@ -309,22 +325,6 @@
     "selected": false,
     "tags": [
       "Personal",
-      "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "El polvo cubre",
-      "las teclas de plástico,",
-      "destino común"
-    ],
-    "date": "2025-01-29",
-    "id": 88,
-    "selected": true,
-    "tags": [
-      "Personal",
-      "Reflexión",
       "5-7-5"
     ],
     "show": true

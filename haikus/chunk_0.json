@@ -1,5 +1,23 @@
 [
   {
+    "id": 149,
+    "text": [
+      "Día de excursión",
+      "vuelvo de las montañas",
+      "adiós amigos"
+    ],
+    "date": "2025-04-06",
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Me ha sorprendido mirar atrás y ver las lejanas montañas, donde hace poco tiempo estaba comiendo con mis amigos."
+    ]
+  },
+  {
     "id": 148,
     "text": [
       "Tallo mi bastón,",
@@ -358,24 +376,6 @@
     "description": [
       "Salgo de Alicante, camino de ver a mis amigos, y mientras conduzco el Maigmó se eleva ante mí.",
       "Después de tanto tiempo, aún me sorprende."
-    ]
-  },
-  {
-    "id": 129,
-    "text": [
-      "Tras la colina",
-      "un baño plateado,",
-      "la luna llena"
-    ],
-    "date": "2025-03-16",
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Es raro ver salir la luna viviendo en la ciudad. Pero durante mi paseo nocturno, tras una colina y entre dos edificios, veo salir una lunea llena y brillante."
     ]
   }
 ]
