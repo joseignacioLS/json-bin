@@ -1596,5 +1596,20 @@
     "description": [
       "Me ha sorprendido mirar atrás y ver las lejanas montañas, donde hace poco tiempo estaba comiendo con mis amigos."
     ]
+  },
+  {
+    "id": 150,
+    "text": [
+      "A-quí de-cla-ro",
+      "u-na vi-da ho-nes-ta",
+      "a e-so_as-pi-ro"
+    ],
+    "date": "2025-04-06",
+    "selected": false,
+    "tags": ["Personal","Reflexión", "5-7-5"],
+    "show": true,
+    "description": [
+      "Conduzco camino al cine, atardece. ¿Qué quiero?"
+    ]
   }
 ]
