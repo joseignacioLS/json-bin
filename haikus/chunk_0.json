@@ -1,5 +1,24 @@
 [
   {
+    "id": 150,
+    "text": [
+      "Aquí declaro",
+      "una vida honesta",
+      "a eso aspiro"
+    ],
+    "date": "2025-04-06",
+    "selected": false,
+    "tags": [
+      "Personal",
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Conduzco camino al cine, atardece. ¿Qué quiero?"
+    ]
+  },
+  {
     "id": 149,
     "text": [
       "Día de excursión",
@@ -356,26 +375,6 @@
     "description": [
       "Una sesión nocturna de charla con un viejo amigo. Hablamos de los tiempos juntos y de las incertidumbres de nuestro presente y futuro.",
       "Me alegra tenerle en mi vida y poder hablar así con él."
-    ]
-  },
-  {
-    "id": 130,
-    "text": [
-      "Viajo al norte,",
-      "Alicante tras de mí,",
-      "sonríe el Maigmó"
-    ],
-    "date": "2025-03-21",
-    "selected": true,
-    "tags": [
-      "Naturaleza",
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Salgo de Alicante, camino de ver a mis amigos, y mientras conduzco el Maigmó se eleva ante mí.",
-      "Después de tanto tiempo, aún me sorprende."
     ]
   }
 ]

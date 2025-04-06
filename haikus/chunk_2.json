@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Formas lejanas",
+      "bruma de las montañas",
+      "abrigo frío"
+    ],
+    "date": "2025-02-20",
+    "id": 109,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Musa monarca",
       "¿cómo consigo hacer",
       "que no te vayas?"
@@ -313,20 +328,5 @@
     "description": [
       "Otro día más trabajando, me preparo un té, y la taza y yo pasamos un rato juntos."
     ]
-  },
-  {
-    "text": [
-      "Una almohada",
-      "donde antes eran dos,",
-      "sueño lejano"
-    ],
-    "date": "2025-01-29",
-    "id": 89,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true
   }
 ]
