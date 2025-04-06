@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Eterno tictac",
+      "sucesión infinita,",
+      "sentido falaz"
+    ],
+    "date": "2025-01-28",
+    "id": 86,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Cielo cobrizo",
       "las sombras corren libres,",
       "llega la noche"
@@ -292,23 +307,5 @@
       "5-7-5"
     ],
     "show": true
-  },
-  {
-    "text": [
-      "Rebrota",
-      "tras un desastre,",
-      "la vida"
-    ],
-    "date": "2024-11-21",
-    "id": 44,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "3-5-3"
-    ],
-    "show": true,
-    "description": [
-      "Esto fue lo último que escribí antes de que se terminará mi relación esa misma tarde."
-    ]
   }
 ]
