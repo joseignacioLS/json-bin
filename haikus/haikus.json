@@ -1569,5 +1569,17 @@
       "A plena luz del día se puede ver la luna en cuarto creciente en el cielo. Hace tiempo que no veía la luna de día.",
       "Queda una semana para la luna llena."
     ]
+  },
+  {
+    "id": 148,
+    "text": ["Ta-llo mi bas-tón,", "hoy no tra-ba-jo so-lo,", "u-na gar-ce-ta"],
+    "date": "2025-04-06",
+    "selected": false,
+    "tags": ["Personal", "Naturaleza", "5-7-5"],
+    "show": true,
+    "description": [
+      "He encontrado un palo nuevo que quiero convertir en un bastón. En un parque he comenzado a limpiar la corteza, facilitando que se seque.",
+      "Al darme cuenta, una garceta rondaba cerca mía, buscando comida en la vegetación y haciendome compañía en mi trabajo."
+    ]
   }
 ]
