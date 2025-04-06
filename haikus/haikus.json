@@ -1581,5 +1581,20 @@
       "He encontrado un palo nuevo que quiero convertir en un bastón. En un parque he comenzado a limpiar la corteza, facilitando que se seque.",
       "Al darme cuenta, una garceta rondaba cerca mía, buscando comida en la vegetación y haciendome compañía en mi trabajo."
     ]
+  },
+  {
+    "id": 149,
+    "text": [
+      "Dí-a de_ex-cur-sión",
+      "vuel-vo de las mon-ta-ñas",
+      "a-diós a-mi-gos"
+    ],
+    "date": "2025-04-06",
+    "selected": false,
+    "tags": ["Personal", "5-7-5"],
+    "show": true,
+    "description": [
+      "Me ha sorprendido mirar atrás y ver las lejanas montañas, donde hace poco tiempo estaba comiendo con mis amigos."
+    ]
   }
 ]
