@@ -1553,5 +1553,21 @@
     "description": [
       "Una amiga ha tenido el detalle de hacerme bolas de oreo. Me ha hecho mucha ilusión."
     ]
+  },
+  {
+    "id": 147,
+    "text": [
+      "Tres de la tar-de,",
+      "po-li-zón en el cie-lo,",
+      "cuar-to cre-cien-te"
+    ],
+    "date": "2025-04-06",
+    "selected": false,
+    "tags": ["Naturaleza", "5-7-5"],
+    "show": true,
+    "description": [
+      "A plena luz del día se puede ver la luna en cuarto creciente en el cielo. Hace tiempo que no veía la luna de día.",
+      "Queda una semana para la luna llena."
+    ]
   }
 ]
