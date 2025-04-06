@@ -1,6 +1,24 @@
 [
   {
     "text": [
+      "Rebrota",
+      "tras un desastre,",
+      "la vida"
+    ],
+    "date": "2024-11-21",
+    "id": 44,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true,
+    "description": [
+      "Esto fue lo último que escribí antes de que se terminará mi relación esa misma tarde."
+    ]
+  },
+  {
+    "text": [
       "El árbol",
       "al perder la hoja",
       "se muere"
@@ -285,21 +303,6 @@
     "tags": [
       "Naturaleza",
       "3-5-3"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Huye el verano,",
-      "junio traelo aquí,",
-      "no hay futuro."
-    ],
-    "date": "2017-10-06",
-    "id": 14,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "5-7-5"
     ],
     "show": true
   }
