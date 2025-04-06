@@ -1,0 +1,36 @@
+name: Generate Haikus
+
+on:
+  push:
+    paths:
+      - "haikus/**"
+      - "chunker.js"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "20.10.0"
+
+      - name: Install dependencies
+        run: npm ci # o npm install, si no tienes lockfile
+
+      - name: Ejecutar script de haikus
+        run: |
+          cd haikus
+          node chunker.js
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Actualización automática de haikus"
+          git push
