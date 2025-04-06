@@ -5,6 +5,7 @@ on:
     paths:
       - "haikus/**"
       - "chunker.js"
+  workflow_dispatch: # ejecución manual
 
 jobs:
   build:
