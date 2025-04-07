@@ -1,5 +1,25 @@
 [
   {
+    "id": 151,
+    "text": [
+      "Espacio blanco",
+      "tímida tinta negra",
+      "sin inspiración"
+    ],
+    "date": "2025-04-07",
+    "selected": false,
+    "tags": [
+      "Personal",
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Hay días en los que no sé sobre que escribir.",
+      "¿A dónde van las musas? ¿Qué las atrae de vuelta?"
+    ]
+  },
+  {
     "id": 150,
     "text": [
       "Aquí declaro",
@@ -356,25 +376,6 @@
     "show": true,
     "description": [
       "Aún inspirado por mi conversación con mi amigo sobre la vida, recuerdo el sitio y como compartir la carga nos alivia."
-    ]
-  },
-  {
-    "id": 131,
-    "text": [
-      "La fauna ronca,",
-      "viejos amigos cuentan",
-      "nuevas batallas"
-    ],
-    "date": "2025-03-22",
-    "selected": false,
-    "tags": [
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Una sesión nocturna de charla con un viejo amigo. Hablamos de los tiempos juntos y de las incertidumbres de nuestro presente y futuro.",
-      "Me alegra tenerle en mi vida y poder hablar así con él."
     ]
   }
 ]
