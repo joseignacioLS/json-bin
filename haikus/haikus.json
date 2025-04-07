@@ -1,5 +1,16 @@
 [
   {
+    "id": 152,
+    "text": ["Sin es-pe-rar-lo", "un so-ni-do a-vi-sa", "me has es-cri-to"],
+    "date": "2025-04-07",
+    "selected": false,
+    "tags": ["Personal", "5-7-5"],
+    "show": true,
+    "description": [
+      "Creo que normalmente no somos conscientes del poder que tiene interaccionar con la gente. Un solo mensaje puede ser muy importante."
+    ]
+  },
+  {
     "id": 151,
     "text": [
       "Es-pa-cio blan-co",
