@@ -1574,7 +1574,7 @@
     "id": 148,
     "text": ["Ta-llo mi bas-tón,", "hoy no tra-ba-jo so-lo,", "u-na gar-ce-ta"],
     "date": "2025-04-06",
-    "selected": false,
+    "selected": true,
     "tags": ["Personal", "Naturaleza", "5-7-5"],
     "show": true,
     "description": [
@@ -1609,7 +1609,7 @@
     "tags": ["Personal","Reflexión", "5-7-5"],
     "show": true,
     "description": [
-      "Conduzco camino al cine, atardece. ¿Qué quiero?"
+      "Conduzco camino al cine, atardece. ¿Qué quiero en la vida?"
     ]
   }
 ]
