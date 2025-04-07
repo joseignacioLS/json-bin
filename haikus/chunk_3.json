@@ -1,6 +1,24 @@
 [
   {
     "text": [
+      "Amigo cuenco",
+      "tomamos el té juntos,",
+      "mañanas frías"
+    ],
+    "date": "2025-01-30",
+    "id": 90,
+    "selected": true,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Otro día más trabajando, me preparo un té, y la taza y yo pasamos un rato juntos."
+    ]
+  },
+  {
+    "text": [
       "Una almohada",
       "donde antes eran dos,",
       "sueño lejano"
@@ -294,21 +312,6 @@
       "Naturaleza",
       "Reflexión",
       "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Se rompen",
-      "viejas promesas,",
-      "extraño"
-    ],
-    "date": "2024-12-30",
-    "id": 47,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "3-5-3"
     ],
     "show": true
   }

@@ -1,6 +1,24 @@
 [
   {
     "text": [
+      "Alta montaña",
+      "nubes cubren tu cima",
+      "ahora plana"
+    ],
+    "date": "2025-02-23",
+    "id": 110,
+    "selected": true,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "He visto unas nubes muy densas y bajas que hacían de techo, como cortando la montaña a mitad. Daba la impresión de que, en lugar de en pico, arriba hubiese una gran planicie."
+    ]
+  },
+  {
+    "text": [
       "Formas lejanas",
       "bruma de las montañas",
       "abrigo frío"
@@ -324,24 +342,6 @@
     "show": true,
     "description": [
       "Vuelvo a casa de noche tras la partida de rol y miro arriba, al cielo estrellado."
-    ]
-  },
-  {
-    "text": [
-      "Amigo cuenco",
-      "tomamos el té juntos,",
-      "mañanas frías"
-    ],
-    "date": "2025-01-30",
-    "id": 90,
-    "selected": true,
-    "tags": [
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Otro día más trabajando, me preparo un té, y la taza y yo pasamos un rato juntos."
     ]
   }
 ]

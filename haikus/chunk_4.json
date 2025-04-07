@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Se rompen",
+      "viejas promesas,",
+      "extraño"
+    ],
+    "date": "2024-12-30",
+    "id": 47,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Las nubes",
       "siempre terminan",
       "por irse"
@@ -289,21 +304,6 @@
     "tags": [
       "Naturaleza",
       "3-5-3"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "El vuelo raso",
-      "del pájaro azabache,",
-      "gélido campo"
-    ],
-    "date": "2019-01-13",
-    "id": 18,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
     ],
     "show": true
   }
