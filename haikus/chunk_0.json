@@ -15,7 +15,7 @@
     ],
     "show": true,
     "description": [
-      "Conduzco camino al cine, atardece. ¿Qué quiero?"
+      "Conduzco camino al cine, atardece. ¿Qué quiero en la vida?"
     ]
   },
   {
@@ -44,7 +44,7 @@
       "una garceta"
     ],
     "date": "2025-04-06",
-    "selected": false,
+    "selected": true,
     "tags": [
       "Personal",
       "Naturaleza",
