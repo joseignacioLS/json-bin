@@ -7,7 +7,7 @@
     "tags": ["Personal", "Reflexión", "5-7-5"],
     "show": true,
     "description": [
-      "Conduzco camino al cine, atardece. ¿Qué quiero en la vida?"
+      "Conduzco camino al cine para ver una película con Antonio. Atardece. ¿Qué quiero en la vida?"
     ]
   },
   {
@@ -22,7 +22,7 @@
     "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
-      "Me ha sorprendido mirar atrás y ver las lejanas montañas, donde hace poco tiempo estaba comiendo con mis amigos."
+      "Me ha sorprendido mirar atrás y ver las lejanas montañas, donde hace unas pocas horas estaba comiendo con mis amigos."
     ]
   },
   {
@@ -34,7 +34,7 @@
     "show": true,
     "description": [
       "He encontrado un palo nuevo que quiero convertir en un bastón. En un parque he comenzado a limpiar la corteza, facilitando que se seque.",
-      "Al darme cuenta, una garceta rondaba cerca mía, buscando comida en la vegetación y haciendome compañía en mi trabajo."
+      "Al darme cuenta, una garceta rondaba cerca mía, buscando comida en la vegetación y haciéndome compañía en mi trabajo."
     ]
   },
   {
@@ -139,7 +139,7 @@
     "tags": ["Personal", "5-7-5"],
     "show": true,
     "description": [
-      "En el bosque me he sentido inspirado por un haiku de Shiki."
+      "En el bosque me he sentido inspirado por un haiku de Shiki en el que pide que se le recuerde como comedor de caquis."
     ]
   },
   {
@@ -397,7 +397,7 @@
     "date": "2025-03-05",
     "id": 123,
     "selected": false,
-    "tags": ["5-7-5"],
+    "tags": ["Naturaleza", "Estaciones", "5-7-5"],
     "show": true
   },
   {
@@ -409,7 +409,7 @@
     "date": "2025-03-05",
     "id": 122,
     "selected": false,
-    "tags": ["Naturaleza", "5-7-5"],
+    "tags": ["Naturaleza", "Estaciones", "5-7-5"],
     "show": true,
     "description": [
       "Se acerca el equinocio de primavera y me inspira a escribir, pero no consigo captarlo en forma de haiku."
@@ -437,7 +437,8 @@
     "id": 120,
     "selected": true,
     "tags": ["Naturaleza", "Reflexión", "5-7-5"],
-    "show": true
+    "show": true,
+    "description": ["Con el paso del tiempo, ¿seguimos siendo los mismos?"]
   },
   {
     "text": ["De vuel-ta en pie", "ca-mi-no sin co-ge-ar,", "más a-ún due-le"],
@@ -550,7 +551,10 @@
     "id": 109,
     "selected": false,
     "tags": ["Naturaleza", "5-7-5"],
-    "show": true
+    "show": true,
+    "description": [
+      "Disfruto los días en los que la bruma cubre las montañas lejanas, difuminando su forma y dándoles un todo azul."
+    ]
   },
   {
     "text": ["Mu-sa mo-nar-ca", "¿có-mo con-si-go ha-cer", "que no te va-yas?"],
@@ -581,7 +585,10 @@
     "id": 106,
     "selected": true,
     "tags": ["Personal", "5-7-5"],
-    "show": true
+    "show": true,
+    "description": [
+      "Las noches son momentos complicados, traen recuerdos que abren heridas sin curar."
+    ]
   },
   {
     "text": [
@@ -632,7 +639,10 @@
     "id": 101,
     "selected": false,
     "tags": ["Naturaleza", "5-7-5"],
-    "show": true
+    "show": true,
+    "description": [
+      "Pronto llega la primeravera, y el buen tiempo me permite salir a disfrutar de la sombra de los árboles."
+    ]
   },
   {
     "text": [
@@ -644,7 +654,8 @@
     "id": 100,
     "selected": true,
     "tags": ["Personal", "5-7-5"],
-    "show": true
+    "show": true,
+    "description": ["Ojalá algún día sea tan buen haijin."]
   },
   {
     "text": [
@@ -751,7 +762,10 @@
     "id": 91,
     "selected": true,
     "tags": ["Naturaleza", "Personal", "5-7-5"],
-    "show": true
+    "show": true,
+    "description": [
+      "Vuelvo a casa de noche tras la partida de rol y miro arriba, al cielo estrellado."
+    ]
   },
   {
     "text": ["A-mi-go cuen-co", "to-ma-mos el té jun-tos,", "ma-ña-nas frí-as"],
@@ -782,7 +796,8 @@
     "id": 88,
     "selected": true,
     "tags": ["Personal", "Reflexión", "5-7-5"],
-    "show": true
+    "show": true,
+    "description": ["Estoy en una época bastante melancólica."]
   },
   {
     "text": [
@@ -794,7 +809,7 @@
     "id": 87,
     "selected": false,
     "tags": ["Personal", "5-7-5"],
-    "show": true
+    "show": false
   },
   {
     "text": [
@@ -974,7 +989,7 @@
   },
   {
     "text": [
-      "Qui-én di-rí-a",
+      "¿Qui-én di-rí-a",
       "que_el al-ma_es-tá for-ma-da",
       "por tan-tas pie-zas?"
     ],
@@ -1029,7 +1044,7 @@
     "show": false
   },
   {
-    "text": ["Dón-de_es-tá", "el pro-pó-si-to", "de vi-vir?"],
+    "text": ["¿Dón-de_es-tá", "el pro-pó-si-to", "de vi-vir?"],
     "date": "2025-01-01",
     "id": 62,
     "selected": false,
@@ -1280,7 +1295,7 @@
     "date": "2023-05-19",
     "id": 35,
     "selected": false,
-    "tags": ["Chuck", "3-5-3"],
+    "tags": ["Chuck", "Personal", "3-5-3"],
     "show": true,
     "description": ["Hace pocos meses que se fue Chuck. Que difícil."]
   },
@@ -1289,7 +1304,7 @@
     "date": "2022-06-21",
     "id": 34,
     "selected": false,
-    "tags": ["Naturaleza", "3-5-3"],
+    "tags": ["Naturaleza", "Estaciones", "3-5-3"],
     "show": true
   },
   {
@@ -1361,7 +1376,7 @@
     "show": true
   },
   {
-    "text": ["La bri-sa", "in-cli-na_al ta-llo,", "por siem-pre."],
+    "text": ["La bri-sa", "in-cli-na_al ta-llo,", "por siem-pre"],
     "date": "2019-01-13",
     "id": 26,
     "selected": false,
@@ -1369,7 +1384,7 @@
     "show": false
   },
   {
-    "text": ["Un bro-te", "se_a-gi-ta_al vien-to,", "al na-cer."],
+    "text": ["Un bro-te", "se_a-gi-ta_al vien-to,", "al na-cer"],
     "date": "2019-01-13",
     "id": 25,
     "selected": false,
@@ -1457,7 +1472,7 @@
     "date": "2019-01-13",
     "id": 15,
     "selected": false,
-    "tags": ["Naturaleza", "3-5-3"],
+    "tags": ["Naturaleza", "Estaciones", "3-5-3"],
     "show": true
   },
   {
@@ -1534,7 +1549,10 @@
     "id": 7,
     "selected": false,
     "tags": ["Personal", "3-5-3"],
-    "show": true
+    "show": true,
+    "description": [
+      "El primer mes completo de Otoño, mi estación favorita. Todos los años se me pasa volando."
+    ]
   },
   {
     "text": [
@@ -1586,7 +1604,10 @@
     "id": 2,
     "selected": false,
     "tags": ["Personal", "5-7-5"],
-    "show": true
+    "show": true,
+    "description": [
+      "Por fín llega Halloween. Es una fiesta a la que le tengo mucho cariño desde que empecé a celebrarla con mis amigos de la universidad."
+    ]
   },
   {
     "text": [
@@ -1597,7 +1618,7 @@
     "date": "2017-10-06",
     "id": 1,
     "selected": false,
-    "tags": ["Naturaleza", "5-7-5"],
+    "tags": ["Naturaleza", "Estaciones", "5-7-5"],
     "show": true
   },
   {
@@ -1605,7 +1626,7 @@
     "date": "2017-10-06",
     "id": 0,
     "selected": true,
-    "tags": ["Naturaleza", "3-5-3"],
+    "tags": ["Naturaleza", "Estaciones", "3-5-3"],
     "show": true
   }
 ]
