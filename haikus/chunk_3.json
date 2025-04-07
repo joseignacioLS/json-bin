@@ -28,22 +28,10 @@
       "Reflexión",
       "5-7-5"
     ],
-    "show": true
-  },
-  {
-    "text": [
-      "Risas nerviosas,",
-      "dos amantes disfrutan",
-      "estando juntos"
-    ],
-    "date": "2025-01-28",
-    "id": 87,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true
+    "show": true,
+    "description": [
+      "Estoy en una época bastante melancólica."
+    ]
   },
   {
     "text": [
@@ -306,6 +294,21 @@
       "Naturaleza",
       "Reflexión",
       "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
+      "Se rompen",
+      "viejas promesas,",
+      "extraño"
+    ],
+    "date": "2024-12-30",
+    "id": 47,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
     ],
     "show": true
   }

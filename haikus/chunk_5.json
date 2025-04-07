@@ -1,21 +1,6 @@
 [
   {
     "text": [
-      "El vuelo raso",
-      "del pájaro azabache,",
-      "gélido campo"
-    ],
-    "date": "2019-01-13",
-    "id": 18,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
       "Desnudo",
       "el árbol duerme,",
       "¿volverá?"
@@ -41,6 +26,7 @@
     "selected": false,
     "tags": [
       "Naturaleza",
+      "Estaciones",
       "3-5-3"
     ],
     "show": true
@@ -118,7 +104,10 @@
       "Personal",
       "3-5-3"
     ],
-    "show": true
+    "show": true,
+    "description": [
+      "El primer mes completo de Otoño, mi estación favorita. Todos los años se me pasa volando."
+    ]
   },
   {
     "text": [
@@ -193,7 +182,10 @@
       "Personal",
       "5-7-5"
     ],
-    "show": true
+    "show": true,
+    "description": [
+      "Por fín llega Halloween. Es una fiesta a la que le tengo mucho cariño desde que empecé a celebrarla con mis amigos de la universidad."
+    ]
   },
   {
     "text": [
@@ -206,6 +198,7 @@
     "selected": false,
     "tags": [
       "Naturaleza",
+      "Estaciones",
       "5-7-5"
     ],
     "show": true
@@ -221,6 +214,7 @@
     "selected": true,
     "tags": [
       "Naturaleza",
+      "Estaciones",
       "3-5-3"
     ],
     "show": true

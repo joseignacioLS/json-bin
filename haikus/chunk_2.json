@@ -12,7 +12,10 @@
       "Naturaleza",
       "5-7-5"
     ],
-    "show": true
+    "show": true,
+    "description": [
+      "Disfruto los días en los que la bruma cubre las montañas lejanas, difuminando su forma y dándoles un todo azul."
+    ]
   },
   {
     "text": [
@@ -62,7 +65,10 @@
       "Personal",
       "5-7-5"
     ],
-    "show": true
+    "show": true,
+    "description": [
+      "Las noches son momentos complicados, traen recuerdos que abren heridas sin curar."
+    ]
   },
   {
     "text": [
@@ -142,7 +148,10 @@
       "Naturaleza",
       "5-7-5"
     ],
-    "show": true
+    "show": true,
+    "description": [
+      "Pronto llega la primeravera, y el buen tiempo me permite salir a disfrutar de la sombra de los árboles."
+    ]
   },
   {
     "text": [
@@ -157,7 +166,10 @@
       "Personal",
       "5-7-5"
     ],
-    "show": true
+    "show": true,
+    "description": [
+      "Ojalá algún día sea tan buen haijin."
+    ]
   },
   {
     "text": [
@@ -309,7 +321,10 @@
       "Personal",
       "5-7-5"
     ],
-    "show": true
+    "show": true,
+    "description": [
+      "Vuelvo a casa de noche tras la partida de rol y miro arriba, al cielo estrellado."
+    ]
   },
   {
     "text": [
