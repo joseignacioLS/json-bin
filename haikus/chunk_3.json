@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Naturaleza",
+      "cubierta de asfalto,",
+      "musa nostalgía"
+    ],
+    "date": "2025-01-31",
+    "id": 94,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Indiferentes,",
       "cánticos de gorriones",
       "en el invierno"
@@ -301,22 +316,6 @@
     "id": 59,
     "selected": false,
     "tags": [
-      "Personal",
-      "3-5-3"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Belleza,",
-      "¿estás también en",
-      "el dolor?"
-    ],
-    "date": "2025-01-01",
-    "id": 57,
-    "selected": false,
-    "tags": [
-      "Reflexión",
       "Personal",
       "3-5-3"
     ],

@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "El viento",
+      "desnuda al árbol,",
+      "caduco"
+    ],
+    "date": "2019-01-13",
+    "id": 30,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Las luciérnagas",
       "iluminan el bosque,",
       "guían la noche"

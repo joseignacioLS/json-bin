@@ -1,6 +1,22 @@
 [
   {
     "text": [
+      "Belleza,",
+      "¿estás también en",
+      "el dolor?"
+    ],
+    "date": "2025-01-01",
+    "id": 57,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Miro atrás",
       "inacabado",
       "persisto"
@@ -290,21 +306,6 @@
     "tags": [
       "Personal",
       "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "El viento",
-      "desnuda al árbol,",
-      "caduco"
-    ],
-    "date": "2019-01-13",
-    "id": 30,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "3-5-3"
     ],
     "show": true
   }

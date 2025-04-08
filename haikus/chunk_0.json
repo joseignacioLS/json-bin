@@ -1,5 +1,24 @@
 [
   {
+    "id": 155,
+    "text": [
+      "Sobre mis hombros",
+      "vuestras expectativas",
+      "ya no las quiero"
+    ],
+    "date": "2025-04-08",
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Poco a poco dejo ir esa culpa que tengo cuando no hago lo que los demás piensan que es lo correcto."
+    ]
+  },
+  {
     "id": 154,
     "text": [
       "Manos cansadas",
@@ -357,24 +376,6 @@
       "Tras una tarde con amigos me siento en mi cama a escribir en mi libreta.",
       "Aún es esa temporada tan agradable en la que el peso y el calor del edredón se agradecen.",
       "Es media noche, escucho el segundero de mi reloj de pared, que hace patente el paso del tiempo."
-    ]
-  },
-  {
-    "id": 135,
-    "text": [
-      "Invierno atrás,",
-      "sobre ramas caducas",
-      "renacen hojas"
-    ],
-    "date": "2025-03-26",
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Un pequeño guiño a la primavera, trayendo de nuevo la vida tras el invierno."
     ]
   }
 ]
