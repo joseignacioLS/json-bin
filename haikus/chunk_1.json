@@ -1,5 +1,24 @@
 [
   {
+    "id": 133,
+    "text": [
+      "Augurio negro,",
+      "cruzan nuestros caminos,",
+      "conexión muda"
+    ],
+    "date": "2025-03-23",
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Normalmente no paseo por las noches, pero hoy me hacía falta y he decidido salir. En mi camino me cruzo con un gato negro de ojos dorados, y durante un momento nos miramos y noto una conexión."
+    ]
+  },
+  {
     "id": 132,
     "text": [
       "Briznas susurran,",
@@ -326,21 +345,6 @@
     "selected": false,
     "tags": [
       "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Mi paso deja",
-      "huellas en el camino,",
-      "que el tiempo borra"
-    ],
-    "date": "2025-02-25",
-    "id": 112,
-    "selected": false,
-    "tags": [
-      "Reflexión",
       "5-7-5"
     ],
     "show": true
