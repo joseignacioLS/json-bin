@@ -1,4 +1,15 @@
-[
+[  
+  {
+    "id": 155,
+    "text": ["So-bre mis hom-bros", "vues-tras ex-pec-ta-ti-vas", "ya no las quie-ro"],
+    "date": "2025-04-08",
+    "selected": false,
+    "tags": ["Reflexión", "Personal", "5-7-5"],
+    "show": true,
+    "description": [
+      "Poco a poco dejo ir esa culpa que tengo cuando no hago lo que los demás piensan que es lo correcto."
+    ]
+  },
   {
     "id": 154,
     "text": ["Ma-nos can-sa-das", "a-ho-ra lo di-fí-cil", "to-ca es-pe-rar"],
