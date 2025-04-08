@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Indiferentes,",
+      "cánticos de gorriones",
+      "en el invierno"
+    ],
+    "date": "2025-01-31",
+    "id": 93,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Un desperfecto",
       "en mi coche creí ver,",
       "una polilla"
@@ -302,21 +317,6 @@
     "selected": false,
     "tags": [
       "Reflexión",
-      "Personal",
-      "3-5-3"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Miro atrás",
-      "inacabado",
-      "persisto"
-    ],
-    "date": "2025-01-01",
-    "id": 56,
-    "selected": false,
-    "tags": [
       "Personal",
       "3-5-3"
     ],

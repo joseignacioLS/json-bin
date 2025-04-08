@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Las luciérnagas",
+      "iluminan el bosque,",
+      "guían la noche"
+    ],
+    "date": "2019-01-13",
+    "id": 27,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Repiqueteo,",
       "la ventana afinando",
       "su instrumento"

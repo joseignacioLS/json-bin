@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Yermo páramo,",
+      "brote desafiante",
+      "voluntad sacra"
+    ],
+    "date": "2025-02-26",
+    "id": 113,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Mi paso deja",
       "huellas en el camino,",
       "que el tiempo borra"
@@ -317,21 +332,6 @@
     ],
     "date": "2025-01-31",
     "id": 94,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Indiferentes,",
-      "cánticos de gorriones",
-      "en el invierno"
-    ],
-    "date": "2025-01-31",
-    "id": 93,
     "selected": false,
     "tags": [
       "Naturaleza",
