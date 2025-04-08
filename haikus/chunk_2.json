@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Mi paso deja",
+      "huellas en el camino,",
+      "que el tiempo borra"
+    ],
+    "date": "2025-02-25",
+    "id": 112,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Vista invernal",
       "pirotecnia rosada",
       "lluvia de almendras"
@@ -323,24 +338,5 @@
       "5-7-5"
     ],
     "show": true
-  },
-  {
-    "text": [
-      "Un desperfecto",
-      "en mi coche creí ver,",
-      "una polilla"
-    ],
-    "date": "2025-01-30",
-    "id": 92,
-    "selected": true,
-    "tags": [
-      "Naturaleza",
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Que gracia. Caminaba hacia mi coche y en el lateral parecía haber un golpe o algún desperfecto. Sin embargo, al acercarme, ví que realmente era una polilla posada en la puerta. De alguna manera camuflándose en un entorno moderno."
-    ]
   }
 ]
