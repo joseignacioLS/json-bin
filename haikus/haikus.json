@@ -1,5 +1,16 @@
 [
   {
+    "id": 153,
+    "text": ["Hai-jin o-cu-to", "po-e-mas no le-í-dos", "te-mo res-pues-ta"],
+    "date": "2025-04-07",
+    "selected": false,
+    "tags": ["Personal", "5-7-5"],
+    "show": true,
+    "description": [
+      "¿Seré capaz de soportar la opinión de la gente o su indiferencia hacia mis haikus si alguna vez los comparto?"
+    ]
+  },
+  {
     "id": 152,
     "text": ["Sin es-pe-rar-lo", "un so-ni-do a-vi-sa", "me has es-cri-to"],
     "date": "2025-04-07",
