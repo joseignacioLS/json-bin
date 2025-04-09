@@ -1,4 +1,15 @@
-[  
+[
+  {
+    "id": 156,
+    "text": ["Men-sa-je cru-do", "a-mis-tad que-bran-ta-da", "si-len-cio frí-o"],
+    "date": "2025-04-09",
+    "selected": false,
+    "tags": ["Personal", "5-7-5"],
+    "show": true,
+    "description": [
+      "¿Cuánto puede aguantar una amistad? No siempre que se hace daño se hace con intención."
+    ]
+  },
   {
     "id": 155,
     "text": ["So-bre mis hom-bros", "vues-tras ex-pec-ta-ti-vas", "ya no las quie-ro"],
