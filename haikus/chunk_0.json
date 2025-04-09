@@ -1,5 +1,23 @@
 [
   {
+    "id": 156,
+    "text": [
+      "Mensaje crudo",
+      "amistad quebrantada",
+      "silencio frío"
+    ],
+    "date": "2025-04-09",
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "¿Cuánto puede aguantar una amistad? No siempre que se hace daño se hace con intención."
+    ]
+  },
+  {
     "id": 155,
     "text": [
       "Sobre mis hombros",
@@ -356,26 +374,6 @@
     "description": [
       "No pensaba que fuese capaz de montar un nuevo grupo de rol. Me daba miedo abrirme a gente nueva.",
       "Ya llevamos varias sesiones de la partida y estoy muy contento"
-    ]
-  },
-  {
-    "id": 136,
-    "text": [
-      "Noche temprana,",
-      "suave calor de lecho,",
-      "cae arena"
-    ],
-    "date": "2025-03-26",
-    "selected": false,
-    "tags": [
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Tras una tarde con amigos me siento en mi cama a escribir en mi libreta.",
-      "Aún es esa temporada tan agradable en la que el peso y el calor del edredón se agradecen.",
-      "Es media noche, escucho el segundero de mi reloj de pared, que hace patente el paso del tiempo."
     ]
   }
 ]

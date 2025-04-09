@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "La lluvia moja",
+      "los longevos árboles",
+      "séptimo otoño"
+    ],
+    "date": "2021-10-26",
+    "id": 32,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "El viento",
       "desnuda al árbol,",
       "caduco"

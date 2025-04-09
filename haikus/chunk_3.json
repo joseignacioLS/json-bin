@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Tristes recuerdos,",
+      "reloj recita mantra",
+      "mece la noche"
+    ],
+    "date": "2025-02-01",
+    "id": 95,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Naturaleza",
       "cubierta de asfalto,",
       "musa nostalgía"
@@ -299,21 +314,6 @@
     ],
     "date": "2025-01-07",
     "id": 64,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "3-5-3"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Previo amor",
-      "ya desgastado,",
-      "¿amistad?"
-    ],
-    "date": "2025-01-01",
-    "id": 59,
     "selected": false,
     "tags": [
       "Personal",
