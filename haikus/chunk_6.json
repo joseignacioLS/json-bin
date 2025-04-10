@@ -1,6 +1,22 @@
 [
   {
     "text": [
+      "La hoja tiembla,",
+      "por fin empieza a caer,",
+      "llega el otoño"
+    ],
+    "date": "2017-10-06",
+    "id": 1,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "Estaciones",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Otoño,",
       "hojas de color",
       "naranja"

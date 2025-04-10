@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Largo caminar,",
+      "humo contra el cielo,",
+      "plato caliente"
+    ],
+    "date": "2025-03-02",
+    "id": 118,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "La lluvia cae",
       "el artista escribe",
       "el alma vive"
@@ -319,24 +334,6 @@
     "show": true,
     "description": [
       "Desde niño siempre me ha hecho gracia que dentro de las patatas fritas venga una 'deluxe'."
-    ]
-  },
-  {
-    "text": [
-      "Una urraca",
-      "rebusca entre restos,",
-      "¡vaya banquete!"
-    ],
-    "date": "2025-02-01",
-    "id": 97,
-    "selected": true,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Hace reflexionar como lo que sería un montón de basura para mí, para otro ser puede ser una fuente de alimento."
     ]
   }
 ]

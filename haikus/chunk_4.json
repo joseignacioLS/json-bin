@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Me han roto,",
+      "depende de mí",
+      "regresar"
+    ],
+    "date": "2025-01-07",
+    "id": 70,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Tormenta,",
       "agita y empuja",
       "mis velas"
@@ -292,21 +307,5 @@
     "description": [
       "Hace pocos meses que se fue Chuck. Que difícil."
     ]
-  },
-  {
-    "text": [
-      "Roja luz",
-      "alma desnuda,",
-      "solsticio"
-    ],
-    "date": "2022-06-21",
-    "id": 34,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "Estaciones",
-      "3-5-3"
-    ],
-    "show": true
   }
 ]

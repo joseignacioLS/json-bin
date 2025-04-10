@@ -1,5 +1,23 @@
 [
   {
+    "id": 138,
+    "text": [
+      "Reímos juntos,",
+      "sin saber quienes somos",
+      "nos aceptamos"
+    ],
+    "date": "2025-03-29",
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Antes no era capaz de mostrarme tanto a gente con la que no tenía confianza. Ahora me encuentro compartiendo momentos con gente nueva. Siendo yo."
+    ]
+  },
+  {
     "id": 137,
     "text": [
       "Dados de veinte,",
@@ -342,21 +360,6 @@
     "tags": [
       "Reflexión",
       "Personal",
-      "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Largo caminar,",
-      "humo contra el cielo,",
-      "plato caliente"
-    ],
-    "date": "2025-03-02",
-    "id": 118,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
       "5-7-5"
     ],
     "show": true
