@@ -1,4 +1,16 @@
 [
+  
+  {
+    "id": 157,
+    "text": ["Men-te en blan-co", "noche, paseo, notas", "la vi-da si-gue"],
+    "date": "2025-04-10",
+    "selected": false,
+    "tags": ["Personal", "5-7-5"],
+    "show": true,
+    "description": [
+      "Los momentos de tranquilidad y paz empiezan a ser más comunes. No soy el de antes y no voy a volver a serlo."
+    ]
+  },
   {
     "id": 156,
     "text": ["Men-sa-je cru-do", "a-mis-tad que-bran-ta-da", "si-len-cio frí-o"],
