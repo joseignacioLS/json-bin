@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Húmedo ritmo,",
+      "hojas flotando en charcos,",
+      "fugaz otoño"
+    ],
+    "date": "2021-10-26",
+    "id": 33,
+    "selected": true,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "La lluvia moja",
       "los longevos árboles",
       "séptimo otoño"
@@ -290,22 +305,6 @@
       "Naturaleza",
       "Estaciones",
       "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Otoño,",
-      "hojas de color",
-      "naranja"
-    ],
-    "date": "2017-10-06",
-    "id": 0,
-    "selected": true,
-    "tags": [
-      "Naturaleza",
-      "Estaciones",
-      "3-5-3"
     ],
     "show": true
   }

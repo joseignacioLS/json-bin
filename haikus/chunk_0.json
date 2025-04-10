@@ -1,5 +1,23 @@
 [
   {
+    "id": 157,
+    "text": [
+      "Mente en blanco",
+      "noche, paseo, notas",
+      "la vida sigue"
+    ],
+    "date": "2025-04-10",
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Los momentos de tranquilidad y paz empiezan a ser más comunes. No soy el de antes y no voy a volver a serlo."
+    ]
+  },
+  {
     "id": 156,
     "text": [
       "Mensaje crudo",
@@ -355,25 +373,6 @@
     "show": true,
     "description": [
       "Antes no era capaz de mostrarme tanto a gente con la que no tenía confianza. Ahora me encuentro compartiendo momentos con gente nueva. Siendo yo."
-    ]
-  },
-  {
-    "id": 137,
-    "text": [
-      "Dados de veinte,",
-      "aventuras épicas,",
-      "nuevos amigos"
-    ],
-    "date": "2025-03-27",
-    "selected": true,
-    "tags": [
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "No pensaba que fuese capaz de montar un nuevo grupo de rol. Me daba miedo abrirme a gente nueva.",
-      "Ya llevamos varias sesiones de la partida y estoy muy contento"
     ]
   }
 ]

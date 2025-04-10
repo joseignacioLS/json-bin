@@ -1,5 +1,24 @@
 [
   {
+    "id": 137,
+    "text": [
+      "Dados de veinte,",
+      "aventuras épicas,",
+      "nuevos amigos"
+    ],
+    "date": "2025-03-27",
+    "selected": true,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "No pensaba que fuese capaz de montar un nuevo grupo de rol. Me daba miedo abrirme a gente nueva.",
+      "Ya llevamos varias sesiones de la partida y estoy muy contento"
+    ]
+  },
+  {
     "id": 136,
     "text": [
       "Noche temprana,",
@@ -338,21 +357,6 @@
     "selected": false,
     "tags": [
       "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "La lluvia cae",
-      "el artista escribe",
-      "el alma vive"
-    ],
-    "date": "2025-03-01",
-    "id": 116,
-    "selected": false,
-    "tags": [
-      "Reflexión",
       "5-7-5"
     ],
     "show": true

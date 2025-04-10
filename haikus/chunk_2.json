@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "La lluvia cae",
+      "el artista escribe",
+      "el alma vive"
+    ],
+    "date": "2025-03-01",
+    "id": 116,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Charco de lluvia,",
       "efímero reflejo",
       "llévame allí"
@@ -322,24 +337,6 @@
     "show": true,
     "description": [
       "Hace reflexionar como lo que sería un montón de basura para mí, para otro ser puede ser una fuente de alimento."
-    ]
-  },
-  {
-    "text": [
-      "Brisa helada",
-      "cálido toque de sol,",
-      "día invernal"
-    ],
-    "date": "2025-02-01",
-    "id": 96,
-    "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "He de admitir que soy una persona de otoño/invierno. El viento frío en contraposición con el calor del sol en la cara es una sensación increible."
     ]
   }
 ]

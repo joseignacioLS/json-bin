@@ -1,6 +1,24 @@
 [
   {
     "text": [
+      "Brisa helada",
+      "cálido toque de sol,",
+      "día invernal"
+    ],
+    "date": "2025-02-01",
+    "id": 96,
+    "selected": false,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "He de admitir que soy una persona de otoño/invierno. El viento frío en contraposición con el calor del sol en la cara es una sensación increible."
+    ]
+  },
+  {
+    "text": [
       "Tristes recuerdos,",
       "reloj recita mantra",
       "mece la noche"
@@ -299,21 +317,6 @@
     ],
     "date": "2025-01-07",
     "id": 70,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "3-5-3"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Tormenta,",
-      "agita y empuja",
-      "mis velas"
-    ],
-    "date": "2025-01-07",
-    "id": 64,
     "selected": false,
     "tags": [
       "Personal",
