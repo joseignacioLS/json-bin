@@ -1,6 +1,24 @@
 [
   {
     "text": [
+      "Grata sorpresa,",
+      "¡una patata deluxe",
+      "en mi pedido!"
+    ],
+    "date": "2025-02-01",
+    "id": 98,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Desde niño siempre me ha hecho gracia que dentro de las patatas fritas venga una 'deluxe'."
+    ]
+  },
+  {
+    "text": [
       "Una urraca",
       "rebusca entre restos,",
       "¡vaya banquete!"
@@ -308,21 +326,6 @@
     "selected": false,
     "tags": [
       "Reflexión",
-      "3-5-3"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Se acabó,",
-      "fría tristeza,",
-      "desamor"
-    ],
-    "date": "2025-01-07",
-    "id": 71,
-    "selected": false,
-    "tags": [
-      "Personal",
       "3-5-3"
     ],
     "show": true

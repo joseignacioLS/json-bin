@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Se acabó,",
+      "fría tristeza,",
+      "desamor"
+    ],
+    "date": "2025-01-07",
+    "id": 71,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Me han roto,",
       "depende de mí",
       "regresar"
@@ -288,24 +303,5 @@
       "3-5-3"
     ],
     "show": true
-  },
-  {
-    "text": [
-      "La lluvia",
-      "trae tu recuerdo,",
-      "tristeza"
-    ],
-    "date": "2023-05-19",
-    "id": 35,
-    "selected": false,
-    "tags": [
-      "Chuck",
-      "Personal",
-      "3-5-3"
-    ],
-    "show": true,
-    "description": [
-      "Hace pocos meses que se fue Chuck. Que difícil."
-    ]
   }
 ]
