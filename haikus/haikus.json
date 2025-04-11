@@ -1,4 +1,16 @@
 [
+  
+  {
+    "id": 160,
+    "text": ["Ca-e la tar-de", "pre-so en-tre pá-gi-nas", "pren-do u-na luz"],
+    "date": "2025-04-11",
+    "selected": false,
+    "tags": [ "Personal", "5-7-5"],
+    "show": true,
+    "description": [
+      "Primera tarde de vacaciones de semana santa, disfruto de la compañía de un libro durante más tiempo del que pensaba."
+    ]
+  },
   {
     "id": 159,
     "text": ["O-tro dí-a más", "mi fo-lio si-gue blan-co", "des-co-nec-ta-do"],
