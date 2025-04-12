@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Bien y mal",
+      "es subjetivo",
+      "y fugaz"
+    ],
+    "date": "2025-01-17",
+    "id": 78,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "3-5-3"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Soy libre,",
       "para bien o mal",
       "yo mando"
@@ -286,21 +301,6 @@
     "tags": [
       "Naturaleza",
       "3-5-3"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "Aunque perpetua",
-      "la roca va cambiando,",
-      "falso destino"
-    ],
-    "date": "2024-10-17",
-    "id": 37,
-    "selected": false,
-    "tags": [
-      "Reflexión",
-      "5-7-5"
     ],
     "show": true
   }

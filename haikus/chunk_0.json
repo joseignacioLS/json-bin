@@ -1,5 +1,23 @@
 [
   {
+    "id": 161,
+    "text": [
+      "Día lluvioso",
+      "las setas en procesión",
+      "toman las calles"
+    ],
+    "date": "2025-04-12",
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Ha llegado semana santa y como es clásico llueve. Es curioso ver a la gente aun así salir a la calle llevando sus paraguas."
+    ]
+  },
+  {
     "id": 160,
     "text": [
       "Cae la tarde",
@@ -355,24 +373,6 @@
       "muerte nevada,",
       "sueño roto",
       "Era casí un haiku, así que en su honor he decidido terminar de adaptarlo, espero que con el perdón de su autor o autora original."
-    ]
-  },
-  {
-    "id": 141,
-    "text": [
-      "Aprendiz Haijin",
-      "otra hoja del árbol",
-      "ese es Jose"
-    ],
-    "date": "2025-03-30",
-    "selected": false,
-    "tags": [
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "En el bosque me he sentido inspirado por un haiku de Shiki en el que pide que se le recuerde como comedor de caquis."
     ]
   }
 ]

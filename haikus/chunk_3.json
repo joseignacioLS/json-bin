@@ -1,6 +1,24 @@
 [
   {
     "text": [
+      "Siento envidia,",
+      "artistas ancestrales",
+      "que bellos versos"
+    ],
+    "date": "2025-02-01",
+    "id": 100,
+    "selected": true,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "Ojalá algún día sea tan buen haijin."
+    ]
+  },
+  {
+    "text": [
       "Visita breve,",
       "gorrión canta frustrado",
       "vuelo hambriento"
@@ -317,20 +335,5 @@
     "description": [
       "Hace dos años que se fue Chuck. Le echo de menos."
     ]
-  },
-  {
-    "text": [
-      "Bien y mal",
-      "es subjetivo",
-      "y fugaz"
-    ],
-    "date": "2025-01-17",
-    "id": 78,
-    "selected": false,
-    "tags": [
-      "Reflexión",
-      "3-5-3"
-    ],
-    "show": true
   }
 ]

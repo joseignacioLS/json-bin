@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "La luna roja",
+      "indica la llegada,",
+      "feliz cosecha"
+    ],
+    "date": "2017-10-06",
+    "id": 4,
+    "selected": true,
+    "tags": [
+      "Naturaleza",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "El árbol",
       "muda las hojas,",
       "cansado"

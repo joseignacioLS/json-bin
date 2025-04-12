@@ -1,6 +1,25 @@
 [
   {
     "text": [
+      "Dura caída,",
+      "a partir de ahora",
+      "mira tus botas"
+    ],
+    "date": "2025-03-03",
+    "id": 121,
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "A veces nos centramos tanto en el ambiente o en los demás que no vemos que los que corremos peligro somos nosotros.",
+      "Es un momento para recordar que tenemos que cuidar de nosotros mismos también."
+    ]
+  },
+  {
+    "text": [
       "Pequeño gorrión,",
       "¿traerás las mismas plumas",
       "tras el verano?"
@@ -315,24 +334,6 @@
     "show": true,
     "description": [
       "Pronto llega la primeravera, y el buen tiempo me permite salir a disfrutar de la sombra de los árboles."
-    ]
-  },
-  {
-    "text": [
-      "Siento envidia,",
-      "artistas ancestrales",
-      "que bellos versos"
-    ],
-    "date": "2025-02-01",
-    "id": 100,
-    "selected": true,
-    "tags": [
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "Ojalá algún día sea tan buen haijin."
     ]
   }
 ]

@@ -1,6 +1,21 @@
 [
   {
     "text": [
+      "Aunque perpetua",
+      "la roca va cambiando,",
+      "falso destino"
+    ],
+    "date": "2024-10-17",
+    "id": 37,
+    "selected": false,
+    "tags": [
+      "Reflexión",
+      "5-7-5"
+    ],
+    "show": true
+  },
+  {
+    "text": [
       "Los ríos",
       "no se dividen,",
       "por siempre"
@@ -288,21 +303,6 @@
     "date": "2017-10-06",
     "id": 5,
     "selected": false,
-    "tags": [
-      "Naturaleza",
-      "5-7-5"
-    ],
-    "show": true
-  },
-  {
-    "text": [
-      "La luna roja",
-      "indica la llegada,",
-      "feliz cosecha"
-    ],
-    "date": "2017-10-06",
-    "id": 4,
-    "selected": true,
     "tags": [
       "Naturaleza",
       "5-7-5"

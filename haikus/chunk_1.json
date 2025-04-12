@@ -1,5 +1,23 @@
 [
   {
+    "id": 141,
+    "text": [
+      "Aprendiz Haijin",
+      "otra hoja del árbol",
+      "ese es Jose"
+    ],
+    "date": "2025-03-30",
+    "selected": false,
+    "tags": [
+      "Personal",
+      "5-7-5"
+    ],
+    "show": true,
+    "description": [
+      "En el bosque me he sentido inspirado por un haiku de Shiki en el que pide que se le recuerde como comedor de caquis."
+    ]
+  },
+  {
     "id": 140,
     "text": [
       "Baño de bosque",
@@ -345,25 +363,6 @@
     "show": true,
     "description": [
       "Se acerca el equinocio de primavera y me inspira a escribir, pero no consigo captarlo en forma de haiku."
-    ]
-  },
-  {
-    "text": [
-      "Dura caída,",
-      "a partir de ahora",
-      "mira tus botas"
-    ],
-    "date": "2025-03-03",
-    "id": 121,
-    "selected": false,
-    "tags": [
-      "Personal",
-      "5-7-5"
-    ],
-    "show": true,
-    "description": [
-      "A veces nos centramos tanto en el ambiente o en los demás que no vemos que los que corremos peligro somos nosotros.",
-      "Es un momento para recordar que tenemos que cuidar de nosotros mismos también."
     ]
   }
 ]
