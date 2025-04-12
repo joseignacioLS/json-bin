@@ -1,5 +1,15 @@
 [
-  
+  {
+    "id": 161,
+    "text": ["Dí-a llu-vio-so", "las se-tas en pro-ce-sión", "to-man las ca-lles"],
+    "date": "2025-04-12",
+    "selected": false,
+    "tags": [ "Personal", "5-7-5"],
+    "show": true,
+    "description": [
+      "Ha llegado semana santa y como es clásico llueve. Es curioso ver a la gente aun así salir a la calle llevando sus paraguas."
+    ]
+  },
   {
     "id": 160,
     "text": ["Ca-e la tar-de", "pre-so en-tre pá-gi-nas", "pren-do u-na luz"],
